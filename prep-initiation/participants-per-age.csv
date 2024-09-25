@@ -1,0 +1,49 @@
+;;CTA;Casa1;OSIP;Total
+Estratégia;Idade;N;N;N;N
+Intervenção comunitária presencial em locais de sociabilidade;15;1;0;0;1
+;16;3;0;0;3
+;17;10;1;2;13
+;18;2;2;2;6
+;19;7;1;3;11
+Criação de demanda em organização não-governamental;15;1;0;0;1
+;16;1;0;1;2
+;17;1;0;0;1
+;18;7;0;0;7
+;19;6;0;0;6
+Intervenção coletiva virtual por meio de redes sociais;15;2;1;0;3
+;16;3;2;1;6
+;17;4;4;3;11
+;18;9;7;1;17
+;19;12;8;2;22
+Uso de aplicativos de encontros;15;2;1;0;3
+;16;10;3;0;13
+;17;21;11;2;34
+;18;54;22;8;84
+;19;90;22;16;128
+Amanda Selfie (chatbot);15;1;0;0;1
+;16;1;1;0;2
+;17;2;2;0;4
+;18;2;0;0;2
+;19;1;0;0;1
+Demanda espontânea;15;1;0;1;2
+;16;4;0;7;11
+;17;7;2;13;22
+;18;19;0;10;29
+;19;44;3;5;52
+Total;;328;93;77;498
+;;;;;
+;;CTA;Casa1;OSIP;Total
+Estratégia;Idade;N;N;N;N
+Intervenção comunitária presencial em locais de sociabilidade;15-17;14;1;2;17
+;18-19;9;3;5;17
+Criação de demanda em organização não-governamental;15-17;3;0;1;4
+;18-19;13;0;0;13
+Intervenção coletiva virtual por meio de redes sociais;15-17;9;7;4;20
+;18-19;21;15;3;39
+Uso de aplicativos de encontros;15-17;33;15;2;50
+;18-19;144;44;24;212
+Amanda Selfie (chatbot);15-17;4;3;0;7
+;18-19;3;0;0;3
+Demanda espontânea;15-17;12;2;21;35
+;18-19;63;3;15;81
+Total;;328;93;77;498
