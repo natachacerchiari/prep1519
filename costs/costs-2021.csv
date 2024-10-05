@@ -1,69 +1,42 @@
-;2021;;;;;;
-;Online demand creation strategies;;;;Face-to-face demand creation strategies;;
-Description of costing items;"Chatbot strategy
+Type of cost;Costing items class;Description of costing item;"Chatbot strategy
 (10 participants)";"Dating apps strategy 
 (262 participants)";"Social media strategy
-(59 participants)";;"Socialization places strategy
+(59 participants)";"Socialization places strategy
 (34 participants)";"NGOs strategy
 (17 participants)";"Direct referrals strategy
 (116 participants)"
-Fixed costs;;;;;;;
-IT equipment;;;;;;;
-    Laptop;2721.52547307132;2721.52547307132;2721.52547307132;;2721.52547307132;2721.52547307132;2721.52547307132
-    Modem;65.4657933042213;65.4657933042213;65.4657933042213;;65.4657933042213;65.4657933042213;65.4657933042213
-    SIM cards;2.18340611353712;2.18340611353712;2.18340611353712;;2.18340611353712;2.18340611353712;2.18340611353712
-    Smartphone;335.552401746725;335.552401746725;335.552401746725;;335.552401746725;335.552401746725;335.552401746725
-    Speaker;0;0;0;;0;0;104.803493449782
-    Tablet;259.556768558952;259.556768558952;259.556768558952;;259.556768558952;259.556768558952;259.556768558952
-Subtotal;3384.28384279476;3384.28384279476;3384.28384279476;;3384.28384279476;3384.28384279476;3489.08733624454
-;;;;;;;
-Amanda Selfie;;;;;;;
-    Development;0;0;0;;0;0;0
-    Hosting;5196;0;0;;0;0;0
-    Improvement;16440;0;0;;0;0;0
-    Migration;3480;0;0;;0;0;0
-Subtotal;25116;0;0;;0;0;0
-;;;;;;;
-Total fixed costs/year;28500.2838427948;3384.28384279476;3384.28384279476;;3384.28384279476;3384.28384279476;3489.08733624454
-;;;;;;;
-Variable costs;;;;;;;
-Personnel;;;;;;;
-    Content production;0;0;3860;;0;0;0
-    Counselor/nurse;0;0;0;;0;0;0
-    Graphic designer;0;0;0;;0;0;0
-    Illustrator;201.666666666667;201.666666666667;201.666666666667;;201.666666666667;201.666666666667;201.666666666667
-    Language analyst;0;0;0;;0;0;0
-    LGBTQIA + artists and speakers;566.333333333333;156.333333333333;156.333333333333;;316.333333333333;156.333333333333;156.333333333333
-    Marketing;8910;11137.5;12127.5;;9900;0;0
-    Photographer;0;0;0;;0;0;0
-    Press officer;0;0;0;;0;0;0
-    Prevention agent;0;10939.21;0;;0;0;0
-    Receptionist;0;0;0;;0;0;5686.5
-    Recruitment agent and peer-educators;0;28650;17006;;21010;0;0
-    Seamstress;0;0;0;;0;0;0
-    Technical support;0;0;0;;0;0;0
-    Writer;0;0;0;;11302.43;0;0
-Subtotal;9678;51084.71;33351.5;;42730.43;358;6044.5
-;;;;;;;
-Materials and tests;;;;;;;
-    Condom;0.213333333333333;22.56;5.76;;7.89333333333334;0.64;12.5866666666667
-    Disposable enema;3.66666666666667;387.75;99;;135.666666666667;11;216.333333333333
-    Lubricant;0.106666666666667;11.28;2.88;;3.94666666666667;0.32;6.29333333333333
-    Promotional material;0;319.666666666667;319.666666666667;;1617.94666666667;0;8637.45
-    Testing;23.2;2453.4;626.4;;858.4;69.6;1368.8
-Subtotal;27.1866666666667;3194.65666666667;1053.70666666667;;2623.85333333333;81.56;10241.4633333333
-;;;;;;;
-Transportation and dispatch;;;;;;;
-     Transportation;0;0;0;;20.83;0;874.93
-     Dispatch;0;0;0;;1270.3;0;19.5
-Subtotal;0;0;0;;1291.13;0;894.43
-;;;;;;;
-Subscriptions and boosts;;;;;;;
-    Social media;1846.91;613.79;4177.78;;0;0;0
-    Office suite;0;0;0;;0;0;0
-    Phone plan;352.73;352.73;352.73;;352.73;352.73;352.73
-Subtotal;2199.64;966.52;4530.51;;352.73;352.73;352.73
-;;;;;;;
-Total variable costs/year;11904.8266666667;55245.8866666667;38935.7166666667;;46998.1433333333;792.29;17533.1233333333
-;;;;;;;
-Total costs/year;40405.1105094614;58630.1705094614;42320.0005094614;;50382.4271761281;4176.57384279476;21022.2106695779
+Fixed cost;IT equipment;Laptop;2721.5254731;2721.5254731;2721.5254731;2721.5254731;2721.5254731;2721.5254731
+Fixed cost;IT equipment;Modem;65.4657933;65.4657933;65.4657933;65.4657933;65.4657933;65.4657933
+Fixed cost;IT equipment;SIM cards;2.183406114;2.183406114;2.183406114;2.183406114;2.183406114;2.183406114
+Fixed cost;IT equipment;Smartphone;335.55240173;335.55240173;335.55240173;335.55240173;335.55240173;335.55240173
+Fixed cost;IT equipment;Speaker;0;0;0;0;0;104.8034934
+Fixed cost;IT equipment;Tablet;259.55676854;259.55676854;259.55676854;259.55676854;259.55676854;259.55676854
+Fixed cost;Amanda Selfie;Development;0;0;0;0;0;0
+Fixed cost;Amanda Selfie;Hosting;5196;0;0;0;0;0
+Fixed cost;Amanda Selfie;Improvement;16440;0;0;0;0;0
+Fixed cost;Amanda Selfie;Migration;3480;0;0;0;0;0
+Variable cost;Personnel;Content production;0;0;3860;0;0;0
+Variable cost;Personnel;Counselor/nurse;0;0;0;0;0;0
+Variable cost;Personnel;Graphic designer;0;0;0;0;0;0
+Variable cost;Personnel;Illustrator;201.6666667;201.6666667;201.6666667;201.6666667;201.6666667;201.6666667
+Variable cost;Personnel;Language analyst;0;0;0;0;0;0
+Variable cost;Personnel;LGBTQIA + artists and speakers;566.33333334;156.33333334;156.33333334;316.33333334;156.33333334;156.33333334
+Variable cost;Personnel;Marketing;8910;11137.5;12127.5;9900;0;0
+Variable cost;Personnel;Photographer;0;0;0;0;0;0
+Variable cost;Personnel;Press officer;0;0;0;0;0;0
+Variable cost;Personnel;Prevention agent;0;10939.21;0;0;0;0
+Variable cost;Personnel;Receptionist;0;0;0;0;0;5686.5
+Variable cost;Personnel;Recruitment agent and peer-educators;0;28650;17006;21010;0;0
+Variable cost;Personnel;Seamstress;0;0;0;0;0;0
+Variable cost;Personnel;Technical support;0;0;0;0;0;0
+Variable cost;Personnel;Writer;0;0;0;11302.43;0;0
+Variable cost;Materials and tests;Condom;0.2133333334;22.56;5.76;7.893333334;0.64;12.586666666
+Variable cost;Materials and tests;Disposable enema;3.666666667;387.75;99;135.6666667;11;216.3333333
+Variable cost;Materials and tests;Lubricant;0.1066666667;11.28;2.88;3.946666667;0.32;6.293333333
+Variable cost;Materials and tests;Promotional material;0;319.6666667;319.6666667;1617.9466667;0;8637.45
+Variable cost;Materials and tests;Testing;23.2;2453.4;626.4;858.4;69.6;1368.8
+Variable cost;Transportation and dispatch;Transportation;0;0;0;20.83;0;874.93
+Variable cost;Transportation and dispatch;Dispatch;0;0;0;1270.3;0;19.5
+Variable cost;Subscriptions and boosts;Social media;1846.91;613.79;4177.78;0;0;0
+Variable cost;Subscriptions and boosts;Office suite;0;0;0;0;0;0
+Variable cost;Subscriptions and boosts;Phone plan;352.73;352.73;352.73;352.73;352.73;352.73

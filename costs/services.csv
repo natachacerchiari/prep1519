@@ -1,54 +1,53 @@
-;;;;;;VALORES TOTAIS;;;;;;;;;
-CONTRATOS;DATA;ANO;VALOR;CATEGORIA;SUBCATEGORIA;CHATBOT;DATING APPS;SOCIAL MEDIA;SOCIALIZATION PLACES;NGOS;DIRECT REFERRALS;;COMENTÁRIOS;RECURSO;DESPESA
-App cívico - Ajustes;04/01/2019;2019;4080;Amanda Selfie;Improvement;4080;0;0;0;0;0;;;Amanda Selfie;Horas de ajuste
-App cívico - Ajustes;05/02/2019;2019;4080;Amanda Selfie;Improvement;4080;0;0;0;0;0;;;Amanda Selfie;Horas de ajuste
-App cívico - Ajustes;06/03/2019;2019;4080;Amanda Selfie;Improvement;4080;0;0;0;0;0;;;Amanda Selfie;Horas de ajuste
-App cívico - Ajustes;07/01/2019;2019;4080;Amanda Selfie;Improvement;4080;0;0;0;0;0;;;Amanda Selfie;Horas de ajuste
-App cívico - Ajustes;08/01/2019;2019;4080;Amanda Selfie;Improvement;4080;0;0;0;0;0;;;Amanda Selfie;Horas de ajuste
-App cívico - Ajustes;09/02/2019;2019;4080;Amanda Selfie;Improvement;4080;0;0;0;0;0;;;Amanda Selfie;Horas de ajuste
-App cívico - Ajustes;04/06/2020;2020;7200;Amanda Selfie;Improvement;7200;0;0;0;0;0;;;Amanda Selfie;Horas de ajuste
-App cívico - Ajustes;04/27/2020;2020;3600;Amanda Selfie;Improvement;3600;0;0;0;0;0;;;Amanda Selfie;Horas de ajuste
-App cívico - Ajustes;05/24/2020;2020;3600;Amanda Selfie;Improvement;3600;0;0;0;0;0;;;Amanda Selfie;Horas de ajuste
-App cívico - Ajustes;05/03/2021;2021;2160;Amanda Selfie;Improvement;2160;0;0;0;0;0;;;Amanda Selfie;Horas de ajuste
-App cívico - Ajustes;07/01/2021;2021;2160;Amanda Selfie;Improvement;2160;0;0;0;0;0;;;Amanda Selfie;Horas de ajuste
-App cívico - Ajustes;07/01/2021;2021;2160;Amanda Selfie;Improvement;2160;0;0;0;0;0;;;Amanda Selfie;Horas de ajuste
-App cívico - Ajustes;06/01/2021;2021;2160;Amanda Selfie;Improvement;2160;0;0;0;0;0;;;Amanda Selfie;Horas de ajuste
-App cívico - Ajustes;07/16/2021;2021;7800;Amanda Selfie;Improvement;7800;0;0;0;0;0;;;Amanda Selfie;Horas de ajuste
-App cívico - Desenvolvimento;12/10/2019;2019;26000;Amanda Selfie;Development;26000;0;0;0;0;0;;;Amanda Selfie;Horas de desenvolvimento
-App cívico - Desenvolvimento;12/21/2019;2019;22800;Amanda Selfie;Development;22800;0;0;0;0;0;;;Amanda Selfie;Horas de desenvolvimento
-App cívico - Desenvolvimento;01/15/2019;2019;12200;Amanda Selfie;Development;12200;0;0;0;0;0;;;Amanda Selfie;Horas de desenvolvimento
-App cívico - Desenvolvimento;01/29/2019;2019;31000;Amanda Selfie;Development;31000;0;0;0;0;0;;;Amanda Selfie;Horas de desenvolvimento
-App cívico - Desenvolvimento;12/18/2019;2019;12000;Amanda Selfie;Development;12000;0;0;0;0;0;;;Amanda Selfie;Horas de desenvolvimento
-App cívico - Desenvolvimento;01/22/2020;2020;12000;Amanda Selfie;Development;12000;0;0;0;0;0;;;Amanda Selfie;Horas de desenvolvimento
-App cívico - Desenvolvimento;02/18/2020;2020;12000;Amanda Selfie;Development;12000;0;0;0;0;0;;;Amanda Selfie;Horas de desenvolvimento
-App cívico - Hospedagem;04/29/2021;2021;999;Amanda Selfie;Hosting;999;0;0;0;0;0;;;Amanda Selfie;Hospedagem (FFM, Fiotec app civico)
-App cívico - Hospedagem;05/28/2021;2021;999;Amanda Selfie;Hosting;999;0;0;0;0;0;;;Amanda Selfie;Hospedagem (FFM, Fiotec app civico)
-App cívico - Hospedagem;07/01/2021;2021;999;Amanda Selfie;Hosting;999;0;0;0;0;0;;;Amanda Selfie;Hospedagem (FFM, Fiotec app civico)
-App cívico - Hospedagem;01/05/2021;2021;1200;Amanda Selfie;Hosting;1200;0;0;0;0;0;;;Amanda Selfie;Hospedagem (FFM, Fiotec app civico)
-App cívico - Hospedagem;06/01/2021;2021;999;Amanda Selfie;Hosting;999;0;0;0;0;0;;;Amanda Selfie;Hospedagem (FFM, Fiotec app civico)
-App cívico - Hospedagem;09/01/2020;2020;999;Amanda Selfie;Hosting;999;0;0;0;0;0;;;Amanda Selfie;Hospedagem (FFM, Fiotec app civico)
-App cívico - Hospedagem;10/02/2020;2020;999;Amanda Selfie;Hosting;999;0;0;0;0;0;;;Amanda Selfie;Hospedagem (FFM, Fiotec app civico)
-App cívico - Hospedagem;12/01/2020;2020;2199;Amanda Selfie;Hosting;2199;0;0;0;0;0;;;Amanda Selfie;Hospedagem (FFM, Fiotec app civico)
-App cívico - Hospedagem;11/02/2020;2020;999;Amanda Selfie;Hosting;999;0;0;0;0;0;;;Amanda Selfie;Hospedagem (FFM, Fiotec app civico)
-App cívico - Migração Amanda;07/28/2021;2021;3480;Amanda Selfie;Migration;3480;0;0;0;0;0;;;Amanda Selfie;Custo de passagem para nova empresa (whatsapp) - migração SP RCC e Infobip)
-Lucy;07/16/2019;2019;3424;Personnel;Illustrator;570.666666666667;570.666666666667;570.666666666667;570.666666666667;570.666666666667;570.666666666667;;todas;Amanda Selfie;Ilustradora (Lucy)
-Lucy;01/23/2020;2020;4664;Personnel;Illustrator;777.333333333333;777.333333333333;777.333333333333;777.333333333333;777.333333333333;777.333333333333;;todas;Amanda Selfie;Ilustradora (Lucy)
-Lucy;08/08/2020;2020;500;Personnel;Illustrator;83.3333333333333;83.3333333333333;83.3333333333333;83.3333333333333;83.3333333333333;83.3333333333333;;todas;Amanda Selfie;Ilustradora (Lucy)
-Lucy;07/16/2021;2021;1210;Personnel;Illustrator;201.666666666667;201.666666666667;201.666666666667;201.666666666667;201.666666666667;201.666666666667;;todas;Amanda Selfie;Ilustradora (Lucy)
-Makoto ;11/20/2020;2020;300;Personnel;Content production;0;0;300;0;0;0;;insta ;Intervenção Coletiva centro outubro 2019-jun 2021 virtual (instagram, grindr);Apoio técnico (vídeo, OBS)
-Makoto ;11/26/2020;2020;180;Personnel;Content production;0;0;180;0;0;0;;insta ;Intervenção Coletiva centro outubro 2019-jun 2021 virtual (instagram, grindr);Apoio técnico (vídeo, OBS)
-Makoto ;12/07/2020;2020;210;Personnel;Content production;0;0;210;0;0;0;;insta ;Intervenção Coletiva centro outubro 2019-jun 2021 virtual (instagram, grindr);Apoio técnico (vídeo, OBS)
-Makoto ;01/05/2021;2021;140;Personnel;Content production;0;0;140;0;0;0;;insta ;Intervenção Coletiva centro outubro 2019-jun 2021 virtual (instagram, grindr);Apoio técnico (vídeo, OBS)
-Makoto ;01/11/2021;2021;120;Personnel;Content production;0;0;120;0;0;0;;insta ;Intervenção Coletiva centro outubro 2019-jun 2021 virtual (instagram, grindr);Apoio técnico (vídeo, OBS)
-Makoto ;01/22/2021;2021;300;Personnel;Content production;0;0;300;0;0;0;;insta ;Intervenção Coletiva centro outubro 2019-jun 2021 virtual (instagram, grindr);Apoio técnico (vídeo, OBS)
-Makoto ;02/02/2021;2021;120;Personnel;Content production;0;0;120;0;0;0;;insta ;Intervenção Coletiva centro outubro 2019-jun 2021 virtual (instagram, grindr);Apoio técnico (vídeo, OBS)
-Makoto ;02/17/2021;2021;480;Personnel;Content production;0;0;480;0;0;0;;insta ;Intervenção Coletiva centro outubro 2019-jun 2021 virtual (instagram, grindr);Apoio técnico (vídeo, OBS)
-Makoto ;02/23/2021;2021;120;Personnel;Content production;0;0;120;0;0;0;;insta ;Intervenção Coletiva centro outubro 2019-jun 2021 virtual (instagram, grindr);Apoio técnico (vídeo, OBS)
-Makoto ;03/29/2021;2021;240;Personnel;Content production;0;0;240;0;0;0;;insta ;Intervenção Coletiva centro outubro 2019-jun 2021 virtual (instagram, grindr);Apoio técnico (vídeo, OBS)
-Makoto ;03/03/2021;2021;240;Personnel;Content production;0;0;240;0;0;0;;insta ;Intervenção Coletiva centro outubro 2019-jun 2021 virtual (instagram, grindr);Apoio técnico (vídeo, OBS)
-Makoto ;03/10/2021;2021;360;Personnel;Content production;0;0;360;0;0;0;;insta ;Intervenção Coletiva centro outubro 2019-jun 2021 virtual (instagram, grindr);Apoio técnico (vídeo, OBS)
-Makoto ;04/27/2021;2021;240;Personnel;Content production;0;0;240;0;0;0;;insta ;Intervenção Coletiva centro outubro 2019-jun 2021 virtual (instagram, grindr);Apoio técnico (vídeo, OBS)
-Makoto ;05/05/2021;2021;540;Personnel;Content production;0;0;540;0;0;0;;insta ;Intervenção Coletiva centro outubro 2019-jun 2021 virtual (instagram, grindr);Apoio técnico (vídeo, OBS)
-Makoto ;05/27/2021;2021;600;Personnel;Content production;0;0;600;0;0;0;;insta ;Intervenção Coletiva centro outubro 2019-jun 2021 virtual (instagram, grindr);Apoio técnico (vídeo, OBS)
-Makoto ;06/12/2021;2021;360;Personnel;Content production;0;0;360;0;0;0;;insta ;Intervenção Coletiva centro outubro 2019-jun 2021 virtual (instagram, grindr);Apoio técnico (vídeo, OBS)
-Pajubá;02/27/2019;2019;16170.41;Personnel;Language analyst;16170.41;0;0;0;0;0;;;Amanda Selfie;Festa de lançamento (Pajubá, bottons, alpha grafics, autonomos pagos para palestra, roupa da Amanda e performance Amanda, bolsa Lucas Raniel assessor de impressa)
+CONTRATOS;DATA;ANO;VALOR;CATEGORIA;SUBCATEGORIA;CHATBOT;DATING APPS;SOCIAL MEDIA;SOCIALIZATION PLACES;NGOS;DIRECT REFERRALS;COMENTÁRIOS;RECURSO;DESPESA
+App cívico - Ajustes;04/01/2019;2019;4080;Amanda Selfie;Improvement;4080;0;0;0;0;0;;Amanda Selfie;Horas de ajuste
+App cívico - Ajustes;05/02/2019;2019;4080;Amanda Selfie;Improvement;4080;0;0;0;0;0;;Amanda Selfie;Horas de ajuste
+App cívico - Ajustes;06/03/2019;2019;4080;Amanda Selfie;Improvement;4080;0;0;0;0;0;;Amanda Selfie;Horas de ajuste
+App cívico - Ajustes;07/01/2019;2019;4080;Amanda Selfie;Improvement;4080;0;0;0;0;0;;Amanda Selfie;Horas de ajuste
+App cívico - Ajustes;08/01/2019;2019;4080;Amanda Selfie;Improvement;4080;0;0;0;0;0;;Amanda Selfie;Horas de ajuste
+App cívico - Ajustes;09/02/2019;2019;4080;Amanda Selfie;Improvement;4080;0;0;0;0;0;;Amanda Selfie;Horas de ajuste
+App cívico - Ajustes;04/06/2020;2020;7200;Amanda Selfie;Improvement;7200;0;0;0;0;0;;Amanda Selfie;Horas de ajuste
+App cívico - Ajustes;04/27/2020;2020;3600;Amanda Selfie;Improvement;3600;0;0;0;0;0;;Amanda Selfie;Horas de ajuste
+App cívico - Ajustes;05/24/2020;2020;3600;Amanda Selfie;Improvement;3600;0;0;0;0;0;;Amanda Selfie;Horas de ajuste
+App cívico - Ajustes;05/03/2021;2021;2160;Amanda Selfie;Improvement;2160;0;0;0;0;0;;Amanda Selfie;Horas de ajuste
+App cívico - Ajustes;07/01/2021;2021;2160;Amanda Selfie;Improvement;2160;0;0;0;0;0;;Amanda Selfie;Horas de ajuste
+App cívico - Ajustes;07/01/2021;2021;2160;Amanda Selfie;Improvement;2160;0;0;0;0;0;;Amanda Selfie;Horas de ajuste
+App cívico - Ajustes;06/01/2021;2021;2160;Amanda Selfie;Improvement;2160;0;0;0;0;0;;Amanda Selfie;Horas de ajuste
+App cívico - Ajustes;07/16/2021;2021;7800;Amanda Selfie;Improvement;7800;0;0;0;0;0;;Amanda Selfie;Horas de ajuste
+App cívico - Desenvolvimento;12/10/2019;2019;26000;Amanda Selfie;Development;26000;0;0;0;0;0;;Amanda Selfie;Horas de desenvolvimento
+App cívico - Desenvolvimento;12/21/2019;2019;22800;Amanda Selfie;Development;22800;0;0;0;0;0;;Amanda Selfie;Horas de desenvolvimento
+App cívico - Desenvolvimento;01/15/2019;2019;12200;Amanda Selfie;Development;12200;0;0;0;0;0;;Amanda Selfie;Horas de desenvolvimento
+App cívico - Desenvolvimento;01/29/2019;2019;31000;Amanda Selfie;Development;31000;0;0;0;0;0;;Amanda Selfie;Horas de desenvolvimento
+App cívico - Desenvolvimento;12/18/2019;2019;12000;Amanda Selfie;Development;12000;0;0;0;0;0;;Amanda Selfie;Horas de desenvolvimento
+App cívico - Desenvolvimento;01/22/2020;2020;12000;Amanda Selfie;Development;12000;0;0;0;0;0;;Amanda Selfie;Horas de desenvolvimento
+App cívico - Desenvolvimento;02/18/2020;2020;12000;Amanda Selfie;Development;12000;0;0;0;0;0;;Amanda Selfie;Horas de desenvolvimento
+App cívico - Hospedagem;04/29/2021;2021;999;Amanda Selfie;Hosting;999;0;0;0;0;0;;Amanda Selfie;Hospedagem (FFM, Fiotec app civico)
+App cívico - Hospedagem;05/28/2021;2021;999;Amanda Selfie;Hosting;999;0;0;0;0;0;;Amanda Selfie;Hospedagem (FFM, Fiotec app civico)
+App cívico - Hospedagem;07/01/2021;2021;999;Amanda Selfie;Hosting;999;0;0;0;0;0;;Amanda Selfie;Hospedagem (FFM, Fiotec app civico)
+App cívico - Hospedagem;01/05/2021;2021;1200;Amanda Selfie;Hosting;1200;0;0;0;0;0;;Amanda Selfie;Hospedagem (FFM, Fiotec app civico)
+App cívico - Hospedagem;06/01/2021;2021;999;Amanda Selfie;Hosting;999;0;0;0;0;0;;Amanda Selfie;Hospedagem (FFM, Fiotec app civico)
+App cívico - Hospedagem;09/01/2020;2020;999;Amanda Selfie;Hosting;999;0;0;0;0;0;;Amanda Selfie;Hospedagem (FFM, Fiotec app civico)
+App cívico - Hospedagem;10/02/2020;2020;999;Amanda Selfie;Hosting;999;0;0;0;0;0;;Amanda Selfie;Hospedagem (FFM, Fiotec app civico)
+App cívico - Hospedagem;12/01/2020;2020;2199;Amanda Selfie;Hosting;2199;0;0;0;0;0;;Amanda Selfie;Hospedagem (FFM, Fiotec app civico)
+App cívico - Hospedagem;11/02/2020;2020;999;Amanda Selfie;Hosting;999;0;0;0;0;0;;Amanda Selfie;Hospedagem (FFM, Fiotec app civico)
+App cívico - Migração Amanda;07/28/2021;2021;3480;Amanda Selfie;Migration;3480;0;0;0;0;0;;Amanda Selfie;Custo de passagem para nova empresa (whatsapp) - migração SP RCC e Infobip)
+Lucy;07/16/2019;2019;3424;Personnel;Illustrator;570.666666666667;570.666666666667;570.666666666667;570.666666666667;570.666666666667;570.666666666667;todas;Amanda Selfie;Ilustradora (Lucy)
+Lucy;01/23/2020;2020;4664;Personnel;Illustrator;777.333333333333;777.333333333333;777.333333333333;777.333333333333;777.333333333333;777.333333333333;todas;Amanda Selfie;Ilustradora (Lucy)
+Lucy;08/08/2020;2020;500;Personnel;Illustrator;83.3333333333333;83.3333333333333;83.3333333333333;83.3333333333333;83.3333333333333;83.3333333333333;todas;Amanda Selfie;Ilustradora (Lucy)
+Lucy;07/16/2021;2021;1210;Personnel;Illustrator;201.666666666667;201.666666666667;201.666666666667;201.666666666667;201.666666666667;201.666666666667;todas;Amanda Selfie;Ilustradora (Lucy)
+Makoto ;11/20/2020;2020;300;Personnel;Content production;0;0;300;0;0;0;insta ;Intervenção Coletiva centro outubro 2019-jun 2021 virtual (instagram, grindr);Apoio técnico (vídeo, OBS)
+Makoto ;11/26/2020;2020;180;Personnel;Content production;0;0;180;0;0;0;insta ;Intervenção Coletiva centro outubro 2019-jun 2021 virtual (instagram, grindr);Apoio técnico (vídeo, OBS)
+Makoto ;12/07/2020;2020;210;Personnel;Content production;0;0;210;0;0;0;insta ;Intervenção Coletiva centro outubro 2019-jun 2021 virtual (instagram, grindr);Apoio técnico (vídeo, OBS)
+Makoto ;01/05/2021;2021;140;Personnel;Content production;0;0;140;0;0;0;insta ;Intervenção Coletiva centro outubro 2019-jun 2021 virtual (instagram, grindr);Apoio técnico (vídeo, OBS)
+Makoto ;01/11/2021;2021;120;Personnel;Content production;0;0;120;0;0;0;insta ;Intervenção Coletiva centro outubro 2019-jun 2021 virtual (instagram, grindr);Apoio técnico (vídeo, OBS)
+Makoto ;01/22/2021;2021;300;Personnel;Content production;0;0;300;0;0;0;insta ;Intervenção Coletiva centro outubro 2019-jun 2021 virtual (instagram, grindr);Apoio técnico (vídeo, OBS)
+Makoto ;02/02/2021;2021;120;Personnel;Content production;0;0;120;0;0;0;insta ;Intervenção Coletiva centro outubro 2019-jun 2021 virtual (instagram, grindr);Apoio técnico (vídeo, OBS)
+Makoto ;02/17/2021;2021;480;Personnel;Content production;0;0;480;0;0;0;insta ;Intervenção Coletiva centro outubro 2019-jun 2021 virtual (instagram, grindr);Apoio técnico (vídeo, OBS)
+Makoto ;02/23/2021;2021;120;Personnel;Content production;0;0;120;0;0;0;insta ;Intervenção Coletiva centro outubro 2019-jun 2021 virtual (instagram, grindr);Apoio técnico (vídeo, OBS)
+Makoto ;03/29/2021;2021;240;Personnel;Content production;0;0;240;0;0;0;insta ;Intervenção Coletiva centro outubro 2019-jun 2021 virtual (instagram, grindr);Apoio técnico (vídeo, OBS)
+Makoto ;03/03/2021;2021;240;Personnel;Content production;0;0;240;0;0;0;insta ;Intervenção Coletiva centro outubro 2019-jun 2021 virtual (instagram, grindr);Apoio técnico (vídeo, OBS)
+Makoto ;03/10/2021;2021;360;Personnel;Content production;0;0;360;0;0;0;insta ;Intervenção Coletiva centro outubro 2019-jun 2021 virtual (instagram, grindr);Apoio técnico (vídeo, OBS)
+Makoto ;04/27/2021;2021;240;Personnel;Content production;0;0;240;0;0;0;insta ;Intervenção Coletiva centro outubro 2019-jun 2021 virtual (instagram, grindr);Apoio técnico (vídeo, OBS)
+Makoto ;05/05/2021;2021;540;Personnel;Content production;0;0;540;0;0;0;insta ;Intervenção Coletiva centro outubro 2019-jun 2021 virtual (instagram, grindr);Apoio técnico (vídeo, OBS)
+Makoto ;05/27/2021;2021;600;Personnel;Content production;0;0;600;0;0;0;insta ;Intervenção Coletiva centro outubro 2019-jun 2021 virtual (instagram, grindr);Apoio técnico (vídeo, OBS)
+Makoto ;06/12/2021;2021;360;Personnel;Content production;0;0;360;0;0;0;insta ;Intervenção Coletiva centro outubro 2019-jun 2021 virtual (instagram, grindr);Apoio técnico (vídeo, OBS)
+Pajubá;02/27/2019;2019;16170.41;Personnel;Language analyst;16170.41;0;0;0;0;0;;Amanda Selfie;Festa de lançamento (Pajubá, bottons, alpha grafics, autonomos pagos para palestra, roupa da Amanda e performance Amanda, bolsa Lucas Raniel assessor de impressa)

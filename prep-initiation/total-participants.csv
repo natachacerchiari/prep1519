@@ -1,14 +1,7 @@
-BANCO RECRUTAMENTO - Público de Interesse;;
-Recrutamentos de São Paulo;6825;
-Recrutamentos criados até dez/2021;5407;
-Idade entre 15 e 19;1056;
-st_teve_relacao_sexual = sim;1034;
-[st_se_considera] = {Homem Cis, Mulher trans, travesti, não binário registrade masculino};1025;
-Com estratégia definida de acordo com a recodificação;902;População do estudo.
-;;
-BANCO PARTICIPANTES - PrEP;;
-Participantes cadastrados;1623;
-Participantes de SP;846;
-Participantes até dez/2021;691;
-Participantes com ao menos uma dispensa;593;
-Com estratégia definida de acordo com a recodificação;498;População do estudo.
+Estratégia;CTA (n);Casa1 (n);OSIP (n)
+Intervenção comunitária presencial em locais de sociabilidade;23;4;7
+Criação de demanda em organização não-governamental;16;0;1
+Intervenção coletiva virtual por meio de redes sociais;30;22;7
+Uso de aplicativos de encontros;177;59;26
+Amanda Selfie (chatbot);7;3;0
+Demanda espontânea;75;5;36

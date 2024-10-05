@@ -1,377 +1,375 @@
-Data;Dia da semana;Horário;Nome do evento;Local;Caracterização do local;;Tipo de evento;Tipo de testagem;Tipo de Intervenção;Tamanho estimado (faixa);Tamanho estimado (numero inteiro);no. de pessoas que pegaram o contato (publico de interesse);12/31/2021;nº de pessoas de deram o contatos (público de interesse);De 15 a 19 anos:;Gays;Negros;Mulheres Trans;Presença de pessoas colocadas/chapadas?;"Você percebeu a compra e venda de:
-(não considerar cerveja ou maconha)";;Presença de muitas cenas de pegação ou sexo?;Composição da equipe;;;;;;;;Insumos;;;;;;;
-;;;;;frequencia;dinamica;;;;;;;;;;;;;;Álcool químico (Corote);Outras drogas (cocaína, crack, LSD, MDMA, Ecstasy, outros):;;artista / convidado;artista / convidado (valor);educadores de par;profissional de saúde;Profissional de Comunicação;Assistente de Recrutamento;Apoio Técnico;médico;folhetos;ducha higiênica;autoteste;teste rápido;outros;Impulso de postagens (valor);preservativo;Gel
-04/19/2019;Sexta-feira;22:00 às 02:00;Helipa na Cantho Club;Largo do Arouche;Eventual;Fixo;Fechado e pago;Autoteste;Mista;;300;;;9;;;;;;;;;1;;2;1;;;;0;0;0;10;0;;;;50
-05/10/2019;Sexta-feira;20:00 às 0:00;Helipa no Bar Verde;Rua Peixoto Gomide;Eventual;Itinerante;Fechado e pago;Autoteste;Mista;;700;;;14;;;;;;;;;2;;2;1;;;;0;150;0;19;0;;;;300
-05/18/2019;Sábado;0:00 às 04:00;Helipa na Virada Cultural;Largo da Bolsa - Centro SP;Eventual;Itinerante;Aberto e gratuito;Autoteste;Mista;;7000;;;55;;;;;;;;;1;;5;1;;;;0;500;25;30;0;;;;900
-06/02/2019;Domingo;14:00 às 16:00;Domingo no MASP;MASP e Av. Paulista;Frequente;Itinerante;Aberto e gratuito;Autoteste;Mista;;20;;;1;;;;;;;;;2;;2;1;;;;0;0;0;0;0;;;;0
-06/07/2019;Sexta-feira;20:00 as 0:00;Helipa no Bar Verde;Rua Peixoto Gomide;Eventual;Itinerante;Fechado e pago;Autoteste;Mista;;800;;;19;;;;;;;;;1;;1;2;;;;0;50;5;15;0;40;;;200
-06/16/2019;Domingo;14:00 às 16:00;Domingo no MASP;MASP e Av. Paulista;Frequente;Itinerante;Aberto e gratuito;TR e Autoteste;Mista;;50;;;2;;;;;;;;;1;;2;2;;;;0;0;0;3;0;0;;;50
-08/29/2019;Quinta-feira;18:00 as 21:00;Sem evento;Void/república e Roosevelt;Frequente;Itinerante;Aberto e gratuito;Autoteste;Individual;51 a 500 pessoas;250;;;1;Raro (até 20%);frequente (21 a 50%);Predominante (50 a 90%);raro (-20%);Aparente;Discreto;Não tem;Não tem;0;;2;0;;;;0;5;0;2;0;0;;;0
-08/30/2019;Sexta-feira;19:00 as 22:00;Sem evento;Roosevelt e Augusta/Peixoto;Frequente;Itinerante;Aberto e gratuito;Não foi ofertada testagem;Individual;51 a 500 pessoas;250;;;1;Raro (até 20%);frequente (21 a 50%);Predominante (50 a 90%);raro (-20%);Aparente;Aparente;Discreto;Aparente;0;;2;0;;;;0;10;0;0;0;0;;;0
-08/31/2019;Sábado;15:00 as 18:00;Sem evento;Centro Cultural São Paulo;Frequente;Itinerante;Aberto e gratuito;Não foi ofertada testagem;Individual;51 a 500 pessoas;250;;;5;Frequente (20% à 50%);frequente (21 a 50%);raro (-20%);não tem;Discreto;Discreto;Discreto;Discreto;0;;2;0;;;;0;15;0;0;0;0;;;0
-09/01/2019;Domingo;2:30 às 18:00;K.O - 7º Edição;Centro Cultural São Paulo;Eventual;Itinerante;Aberto e gratuito;Não foi ofertada testagem;Individual;51 a 500 pessoas;250;;;1;Predominante (50% à 90%);raro (-20%);raro (-20%);não tem;Não tem;Não tem;Não tem;Não tem;0;;2;0;;;;0;0;0;0;0;0;;;0
-09/07/2019;Sábado;15:30 às 19:00;Sem evento;Centro Cultural São Paulo;Frequente;Itinerante;Aberto e gratuito;Não foi ofertada testagem;Individual;51 a 500 pessoas;250;;;0;Predominante (50% à 90%);raro (-20%);raro (-20%);não tem;Não tem;Não tem;Não tem;Não tem;0;;2;0;;;;0;0;0;0;0;0;;;0
-09/08/2019;Domingo;15:00 as 18:00;Sem evento;Parque Ibirapuera;Frequente;Itinerante;Aberto e gratuito;Não foi ofertada testagem;Individual;Acima de 500 pessoas;500;;;0;Predominante (50% à 90%);raro (-20%);;não tem;Não tem;Não tem;Não tem;Não tem;0;;2;0;;;;0;;0;0;0;0;;;0
-09/13/2019;Sexta-feira;20h30 às 23h30;Sem evento;Roosevelt;Frequente;Fixo;Aberto e gratuito;Não foi ofertada testagem;Individual;51 a 500 pessoas;250;;;5;Frequente (20% à 50%);frequente (21 a 50%);frequente (21 a 50%);não tem;Aparente;Aparente;Não tem;Discreto;0;;2;0;;;;0;12;0;0;0;0;;;0
-09/14/2019;Sábado;15:00 às 21:00;Sem evento;CCSP;Frequente;Fixo;Aberto e gratuito;Não foi ofertada testagem;Individual;51 a 500 pessoas;250;;;1;Predominante (50% à 90%);frequente (21 a 50%);raro (-20%);raro (-20%);Discreto;Discreto;Discreto;Discreto;0;;2;0;;;;0;9;0;0;0;0;;;0
-09/14/2019;Sábado;15:00 às 21:00;Sem evento;Paulista;Frequente;Itinerante;Aberto e gratuito;Não foi ofertada testagem;Individual;Acima de 500 pessoas;500;;;4;Frequente (20% à 50%);frequente (21 a 50%);raro (-20%);raro (-20%);Aparente;Não tem;Discreto;Não tem;0;;2;0;;;;0;5;0;0;0;0;;;0
-09/15/2019;Domingo;17h00 às 19h30;Desmanche ;Augusta/Roosevelt;Eventual;Itinerante;Fechado e gratuito;Não foi ofertada testagem;Individual;0 a 50 pessoas;25;;;1 (abordado na Roosevelt);Não tem;não tem;não tem;não tem;Não tem;Não tem;Não tem;Não tem;0;;1;0;;;;0;4;0;0;0;0;;;0
-09/20/2019;Sexta-feira;23h00 ás 06h00;;;;;;;;;;;;0;Raro (até 20%);Predominante (50 a 90%);frequente (21 a 50%);raro (-20%);Aparente;Discreto;Aparente;Aparente;0;;1;0;;;;0;0;0;0;0;0;;;0
-09/21/2019;Sábado;19:00 às 22:00;Sem evento;Paulista;Frequente;Itinerante;Aberto e gratuito;Não foi ofertada testagem;Individual;Acima de 500 pessoas;500;;;0;Raro (até 20%);não tem;raro (-20%);não tem;Não tem;Não tem;Não tem;Não tem;0;;2;0;;;;0;0;0;0;0;0;;;0
-09/22/2019;Domingo;19h00 ás 23h00;;;;;;;;;;;;0;Raro (até 20%);frequente (21 a 50%);frequente (21 a 50%);raro (-20%);Aparente;Discreto;Discreto;Discreto;0;;1;0;;;;0;10;0;0;0;0;;;0
-09/28/2019;Sábado;00h00 ás 06h00;;;;;;;;;;;;1;Frequente (20% à 50%);frequente (21 a 50%);frequente (21 a 50%);raro (-20%);Aparente;Aparente;Discreto;Discreto;0;;1;0;;;;0;10;0;1;0;0;;;0
-09/28/2019;Sábado;20:00 às 00:30;SP na Rua;República e arredores;Eventual;Itinerante;Aberto e gratuito;Autoteste;Coletiva;Acima de 500 pessoas;500;;;7;Frequente (20% à 50%);frequente (21 a 50%);frequente (21 a 50%);raro (-20%);Aparente;Aparente;Discreto;Discreto;0;;3;0;;0;;0;15;0;6;0;0;;;0
-10/05/2019;Sábado;20h30 às 23h30;Sem evento;Roosevelt/Vieira;Frequente;Fixo;Aberto e gratuito;Não foi ofertada testagem;Individual;51 a 500 pessoas;250;;;0;Raro (até 20%);não tem;não tem;não tem;Discreto;Aparente;Não tem;Não tem;0;;2;0;;;;0;12;0;0;0;0;;;0
-10/06/2019;Domingo;15:00 às 21:00;Sem evento;ccsp, masp e paulista;Eventual;Itinerante;Aberto e gratuito;Não foi ofertada testagem;Individual;Acima de 500 pessoas;500;;;8;Frequente (20% à 50%);frequente (21 a 50%);raro (-20%);raro (-20%);Discreto;Aparente;Não tem;Aparente;0;;2;0;;;;0;0;0;0;0;0;;;0
-10/06/2019;Domingo;14h00 às 17h00;Sem evento;Villa Lobos ;Frequente;Itinerante;Aberto e gratuito;Não foi ofertada testagem;Individual;Acima de 500 pessoas;500;;;0;raro (-20%);não tem;não tem;não tem;Não tem;Não tem;Não tem;Não tem;0;;1;0;;;;0;5;0;0;0;0;;;0
-10/12/2019;Sábado;21h00 às 00h00;Sem evento;Roosevelt;Frequente;Fixo;Aberto e gratuito;Não foi ofertada testagem;Individual;51 a 500 pessoas;250;;;1 (por app);raro (-20%);raro (-20%);não tem;não tem;Aparente;Aparente;Não tem;Não tem;0;;1;0;;;;0;11;0;0;0;0;;;0
-10/13/2019;Domingo;13h00 às 16h00;Sem evento;Paulista;Frequente;Fixo;Aberto e gratuito;Não foi ofertada testagem;Individual;Acima de 500 pessoas;500;;;;raro (-20%);raro (-20%);raro (-20%);não tem;Não tem;Discreto;Não tem;Não tem;0;;1;0;;;;0;7;0;0;0;0;;;0
-10/26/2019;Sábado;16:00 às 20:00;Festa Tesãozinho;Pça Dom Orione - Bela Vista;Eventual;Fixo;Aberto e gratuito;Autoteste;Coletiva;51 a 500 pessoas;250;;;0;não tem;Predominante (50 a 90%);frequente (21 a 50%);raro (-20%);Aparente;Aparente;Discreto;Não tem;0;;2;1;;1;;0;0;0;0;0;0;;;0
-10/27/2019;Domingo;16:00 às 22:00;Salem Kiki Ball;Esponja;Eventual;Fixo;Fechado e gratuito;Não foi ofertada testagem;Coletiva;51 a 500 pessoas;250;;;1;frequente (21 a 50%);exclusivo (acima de 90%);frequente (21 a 50%);frequente (21 a 50%);Aparente;Não tem;Não tem;Não tem;0;;2;0;;1;;0;0;0;0;0;0;;;0
-11/07/2019;Quinta-feira;19:00 às 22:00;Slam Marginália Wand;Mosteiro da S Bento;Frequente;Fixo;Aberto e gratuito;Não foi ofertada testagem;Coletiva;0 a 50 pessoas;25;;;0;frequente (21 a 50%);raro (-20%);exclusivo (acima de 90%);frequente (21 a 50%);Aparente;Aparente;Não tem;Não tem;0;R$ 300,00;1;0;;1;;0;0;0;0;0;0;;;0
-11/09/2019;Sábado;23:00 às 01:00;Festa Mel;Espaço Nobre;Eventual;Fixo;Fechado e pago;Não foi ofertada testagem;Individual;51 a 500 pessoas;250;;;0;não tem;Predominante (50 a 90%);raro (-20%);não tem;Aparente;Aparente;Discreto;Não tem;0;;1;1;;;;0;1;0;0;0;0;;;0
-11/22/2019;Sexta-feira;23:00 às 02:00;Kiki Ball Afrodiaspórica;Casa Natura;Eventual;Fixo;Fechado e pago;Não foi ofertada testagem;Coletiva;51 a 500 pessoas;250;;;0;raro (-20%);Predominante (50 a 90%);Predominante (50 a 90%);frequente (21 a 50%);Discreto;Não tem;Discreto;Não tem;0;;3;0;;1;;0;0;0;0;0;0;;;0
-11/23/2019;Sábado;21:00 às 00:00;Chernobyl;Bar do China ;Frequente;Fixo;Aberto e gratuito;Autoteste;Coletiva;51 a 500 pessoas;250;;;7;raro (-20%);Predominante (50 a 90%);Predominante (50 a 90%);raro (-20%);Aparente;Aparente;Discreto;Não tem;0;;2;0;;1;;0;15;0;0;0;0;;;0
-12/05/2019;Quinta-feira;19:30 às 23:00;Slam Marginália;Mosteiro da S Bento;Eventual;Fixo;Aberto e gratuito;Autoteste;Coletiva;0 a 50 pessoas;50;;;2;raro (-20%);raro (-20%);Predominante (50 a 90%);exclusivo (acima de 90%);Aparente;Aparente;Discreto;Não tem;2;;1;0;;1;;0;4;0;4;0;0;;;0
-12/13/2019;Sexta-feira;18:00 as 20:00;Sem evento;Peixoto-masp;Eventual;Itinerante;Aberto e gratuito;Autoteste;Individual;;50;;;1;raro (-20%);frequente (21 a 50%);frequente (21 a 50%);raro (-20%);Não tem;Aparente;Não tem;Não tem;0;;2;0;;;;0;1;0;1;0;0;;;3
-12/14/2019;Segunda-feira;20:00 as 00:00;sem evento;peixoto;Frequente;Itinerante;Aberto e gratuito;Autoteste;Individual;;20;;;3;frequente (21 a 50%);Predominante (50 a 90%);raro (-20%);raro (-20%);Aparente;Aparente;Aparente;Discreto;0;;1;0;;;;0;0;0;2;0;0;;;6
-12/22/2019;Domingo;13:00 as 17:00;Masp LGBT The End;MASP e Av. Paulista;Eventual;Itinerante;Aberto e gratuito;Autoteste;Individual;;100;;;31;Predominante (50 a 90%);Predominante (50 a 90%);frequente (21 a 50%);raro (-20%);Não tem;Aparente;Não tem;Discreto;0;;3;0;;;;0;60;30;7;0;0;;;7
-01/14/2020;Terça-feira;18:00 às 22:00;;Região da Republica;;;;;individual;;12;0;;0;raro (-20%);frequente (21 a 50%);;Predominante;aparente;aparente;aparente;Discreto;;;2;;;;;;;;;;;;;
-01/19/2020;Domingo;15:00 as 18:00;1º Masp do ano;MASP e Av. Paulista;Eventual;Itinerante;Aberto e gratuito;Autoteste;individual;;200;0;;19;Predominante (50 a 90%);Predominante (50 a 90%);frequente (21 a 50%);raro (-20%);Não tem;Aparente;Não tem;Não tem;1;;2;0;;;;0;60;18;15;0;0;;;15
-01/25/2020;Sábado;15:30 as 16:30;Dancehall das Minas;Praça das Artes;Frequente;Fixo;Aberto e gratuito;Autoteste;Coletiva;0 a 50 pessoas;25;0;;0;não tem;não tem;frequente (21 a 50%);não tem;aparente;Aparente;Não tem;Não tem;0;;1;1;;1;;0;0;0;0;0;0;;;0
-01/25/2020;Sábado;17:00 as 19:00;Ball Vera Verão;Camisa Verde e Branco;Frequente;Fixo;Fechado e pago;Autoteste;Coletiva;51 a 500 pessoas;100;0;;0;raro (-20%);frequente (21 a 50%);Predominante (50 a 90%);frequente (21 a 50%);aparente;Não tem;Não tem;Não tem;0;;1;1;;1;;0;0;0;0;0;0;;;0
-01/26/2020;Domingo;17:00 às 20:00;;Masp e Peixoto;Frequente;Fixo;Aberto e gratuito;Não foi ofertada testagem;Individual;;300;0;;0;raro (-20%);raro (-20%);raro (-20%);raro (-20%);Não tem;Não tem;Não tem;Não tem;0;;2;0;;;;0;40;40;10;0;0;;;0
-02/09/2020;Domingo;15:30 as 17:30;Masp Pré Carnaval;Masp;Eventual;Fixo;Aberto e gratuito;Autoteste;Individual;;200;0;;9;frequente (21 a 50%);Predominante (50 a 90%);frequente (21 a 50%);raro (-20%);Aparente;Aparente;Não tem;Não tem;0;;2;0;;;;0;0;38;18;0;0;;;0
-02/09/2020;Domingo;20:00 as 22:00;ExaltaPoc;Miúda Bar Pça Olavo Bilac;Eventual;Fixo;Aberto e pago;Autoteste;Coletiva;51 a 500 pessoas;300;;;;Predominante (50% à 90%);Predominante (50% à 90%);Dominante (mais de 90%);Não tem;Aparente;Discreto;Discreto;Não tem;2;250;1;0;;1;;0;100;0;0;0;0;;;
-02/14/2020;Sexta-feira;18:00 as 22:00;bloquinho sem medo e sem vergonha;praça da republica;Eventual;Itinerante;Aberto e gratuito;Não foi ofertada testagem;Individual;;50;0;;0;raro (-20%);frequente (21 a 50%);frequente (21 a 50%);raro (-20%);aparente;Aparente;Não tem;Não tem;0;;0;0;;;;0;0;0;0;0;0;;;0
-02/20/2020;Quinta-feira;16:00 as 20:00;Sem evento;Republica/Arouche/Luz;;;;;Individual;;7;0;;0;raro(-20%);frequente;frequente;raro;-20%;Aparente;Aparente;Não tem;0;;2;0;;;;0;0;0;0;0;0;;;0
-02/23/2020;Segunda-feira;16:00 as 20:00;Minhoqueens;Republica/Arouche/Luz;Eventual;Itinerante;Aberto e gratuito;Não foi ofertada testagem;Coletiva;Acima de 500 pessoas;500000;;;;Predominante (50% à 90%);Dominante (mais de 90%);Frequente (20% à 50%);Raro (até 20%);Aparente;Aparente;Aparente;Aparente;1;R$ 300,00;1;0;;1;;0;250;15;0;0;0;;;300
-02/24/2020;Segunda-feira;14:00 as 17:00;Bloco Sai Hétero;Augusta;Eventual;Itinerante;Aberto e gratuito;Não foi ofertada testagem;Individual;;2000;30;;0;frequente (21 a 50%);Predominante (50 a 90%);raro (-20%);raro (-20%);aparente;Aparente;Não tem;Discreto;0;;2;0;;;;0;100;30;0;0;0;;;150
-02/25/2020;Terça-feira;14:00 às 18:00;bloco da pablo;região da luz;Eventual;Itinerante;Aberto e gratuito;Não foi ofertada testagem;Coletiva;Acima de 500 pessoas;500000;;;;Predominante (50% à 90%);Dominante (mais de 90%);Frequente (20% à 50%);Raro (até 20%);Aparente;Aparente;Aparente;Aparente;1;300;2;0;;1;;0;250;30;0;0;0;;;300
-02/25/2020;Terça-feira;14:00 às 18:00;bloco da pablo;região da luz;Eventual;Itinerante;Aberto e gratuito;não foi;individual;;1000;0;;0;frequente (21 a 50%);Predominante (50 a 90%);frequente;frequente (21 a 50%);dominante;Aparente;Discreto;Discreto;0;;1;0;;;;0;0;20;0;0;0;;;90
-02/27/2020;Quinta-feira;17:00 ás 21:00;Sem evento;Região da Republica;;;;;Individual;;10;0;;0;raro (-20%);frequente;21 a 50%;Predominante;aparente;Aparente;Aparente;Discreto;0;;2;0;;;;0;0;0;0;0;0;;;0
-03/05/2020;Quinta-feira;16:00 ás 20:00;Sem evento;Republica/Arouche/Luz;Eventual;Itinerante;Aberto e gratuito;Não foi ofertada testagem;individual;;13;0;;0;raro (-20%);frequente;21 a 50%;raro;-20%;aparente;Aparente;Não tem;0;;2;0;;;;0;0;0;0;0;0;;;0
-03/06/2020;Sexta-feira;21:00 às 23:00;Casa 1;Galpão da Casa 1;Eventual;Fixo;Aberto e gratuito;Não foi ofertada testagem;Coletiva;51 a 500 pessoas;100;;;;Predominante (50% à 90%);Dominante (mais de 90%);Frequente (20% à 50%);Raro (até 20%);Aparente;Aparente;Discreto;Não tem;1;R$ 300,00;0;0;;1;;0;0;0;0;0;0;0;;0
-03/08/2020;Domingo;15:30 as 17:30;Sem Evento;Masp;Eventual;Itinerante;Aberto e gratuito;Não foi ofertada testagem;individual;;5000;3;;17;raro (-20%);raro (-20%);raro (-20%);não tem;aparente;Aparente;Não tem;Não tem;0;;2;0;;;;0;30;0;0;0;0;;;216
-03/15/2020;Domingo;16:00 as 18:00;Sem evento;Masp;Eventual;Itinerante;Aberto e gratuito;Não foi ofertada testagem;individual;;3000;0;;0;raro (-20%);raro (-20%);raro (-20%);raro (-20%);raro (-20%);Não tem;Não tem;Não tem;0;;2;0;;;;0;0;0;0;0;0;;;0
-04/17/2020;Sexta-feira;09:00:00 PM;Ansiedade na Quarentena;Instagram;;Online;IGTV;Não foi ofertada testagem;Coletiva;;980;194;203;0;x;x;x;x;x;x;x;x;0;;0;1;0;0;0;0;;;;;;;;
-04/18/2020;Sábado;07:00:00 PM;Arte LGBT;Instagram;;Online;Live;Não foi ofertada testagem;Coletiva;;984;-;Não consta no insta;0;x;x;x;x;x;x;x;x;1;400;0;0;0;1;0;0;;;;;;;;
-04/19/2020;Domingo;04:00:00 PM;PrEP e PEP com Dr. Maravilha;Instagram;;Online;Live;Não foi ofertada testagem;Coletiva;;73184;600;Não consta no insta;;x;x;x;x;x;x;x;x;0;;0;0;1;0;0;1;;;;;;;;
-04/23/2020;Quinta-feira;07:00:00 PM;Sexo e o Covid19 com Matuzza;Instagram;;Online;Live;Não foi ofertada testagem;Coletiva;;5215;-;Não consta no insta;;x;x;x;x;x;x;x;x;1;250;0;0;0;1;0;0;;;;;;;;
-04/24/2020;Sexta-feira;07:00:00 PM;Aula de Vogue com Zaila Barbosa;Instagram;;Online;Live;Não foi ofertada testagem;Coletiva;;100;;Não consta no insta;;x;x;x;x;x;x;x;x;1;500;0;0;0;0;0;0;;;;;;;;
-04/25/2020;Sábado;09:00:00 PM;Ansiedade na Quarentena 2;Instagram;;Online;IGTV;Não foi ofertada testagem;Coletiva;;1008;119;134;;x;x;x;x;x;x;x;x;0;;0;1;0;0;0;0;;;;;;;;
-04/27/2020;Domingo;01:00:00 PM;Para rebolar a raba em casa;Spotify;;Online;Playlist;Não foi ofertada testagem;Coletiva;;1;11;12;;x;x;x;x;x;x;x;x;0;;0;0;1;1;0;0;;;;;;;;
-04/30/2020;Quinta-feira;07:00:00 PM;Masturbação com Raulley;Instagram;;Online;Live;Não foi ofertada testagem;Coletiva;;1007;-;Não consta no insta;;x;x;x;x;x;x;x;x;1;500;1;0;0;0;0;0;;;;;;;;
-05/01/2020;Sexta-feira;07:00:00 PM;Fetiches com Guilhermina;Instagram;;Online;Live;Não foi ofertada testagem;Coletiva;;1010;-;Não consta no insta;;x;x;x;x;x;x;x;x;1;400;0;0;1;0;0;0;;;;;;;;
-05/02/2020;Sábado;09:00:00 PM;Ansiedade na Quarentena 3;Instagram;;Online;IGTV;Não foi ofertada testagem;Coletiva;;1015;92;101;;x;x;x;x;x;x;x;x;0;;0;1;0;0;0;0;;;;;;;;
-05/22/2020;Sexta-feira;07:00:00 PM;Comunicação LGBTQ+ com Icaro;Instagram;;Online;Live;Não foi ofertada testagem;Coletiva;;3290;100;125;;x;x;x;x;x;x;x;x;0;;0;0;2;0;0;0;;;;;;;;
-05/30/2020;Sábado;01:00:00 PM;Hormonização;Instagram;;Online;IGTV;Não foi ofertada testagem;Coletiva;;1035;204;224;;x;x;x;x;x;x;x;x;0;;1;0;0;0;0;0;;;;;;;;
-05/31/2020;Domingo;04:00:00 PM;Arte LGBT;Instagram;;Online;Live;Não foi ofertada testagem;Coletiva;;43350;500;104;;x;x;x;x;x;x;x;x;1;;0;0;2;0;0;0;;;;;;;;
-06/07/2020;Domingo;07:00:00 PM;Transfobia em espaços de saúde;Instagram;;Online;IGTV;Não foi ofertada testagem;Coletiva;;1045;122;156;;x;x;x;x;x;x;x;x;0;;1;0;0;0;0;0;;;;;;;;
-06/19/2020;Sexta-feira;05:00:00 PM;Projeto PrEP1519 - Audre, André e Luiz;Spotify;;Online;Podcast;Não foi ofertada testagem;Coletiva;;7;8;24;;x;x;x;x;x;x;x;x;0;;0;0;;;;0;;;;;;;;
-06/22/2020;Segunda-feira;09:00:00 PM;História LGBT+ com Audre e Magô;Instagram;;Online;Live;Não foi ofertada testagem;Coletiva;;15080;52;Não consta no insta;;x;x;x;x;x;x;x;x;1;300;0;0;1;1;0;0;;;;;;;;
-06/22/2020;Segunda-feira;07:00:00 PM;Abertura Semana LGBTQ+;Instagram;;Online;Live;Não foi ofertada testagem;Coletiva;;3350;187;Não consta no insta;;x;x;x;x;x;x;x;x;0;;3;0;0;0;0;0;;;;;;;;
-06/23/2020;Terça-feira;09:00:00 PM;Pessoas Vivendo com HIV;Instagram;;Online;Live;Não foi ofertada testagem;Coletiva;;1093;;Não consta no insta;;x;x;x;x;x;x;x;x;2;500;0;0;0;0;0;0;;;;;;;;
-07/04/2020;Sábado;08:00:00 PM;Vivência Trans e Travesti na Quarentena Ep.01 - Ika e Audre;Instagram;;Online;IGTV;Não foi ofertada testagem;Coletiva;;1120;346;446;;x;x;x;x;x;x;x;x;0;;0;0;;;;0;;;;;;;;
-07/05/2020;Domingo;07:00:00 PM;Vivência Trans e Travesti na quarentena 01 com Audre e Ika;Instagram;;Online;IGTV;Não foi ofertada testagem;Coletiva;;1120;275;Não consta no insta;;x;x;x;x;x;x;x;x;0;;0;0;1;1;0;0;;;;;;;;
-07/09/2020;Quinta-feira;07:00:00 PM;Bissexualidade;Instagram;;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;1127;406;194;1;x;x;x;x;x;x;x;x;0;;0;0;1;0;0;0;;;;;;;;
-07/12/2020;Domingo;02:00:00 PM;Pessoas Trans no Mercado de Trabalho;Spotify;;Online;Podcast;Não foi ofertada testagem;Coletiva;;1;3;12;;x;x;x;x;x;x;x;x;1;300;;;;;;;;;;;;;;
-07/17/2020;Sexta-feira;09:00:00 PM;Vivência Trans e Travesti na quarentena 02 com Audre;Instagram;;Online;IGTV;Não foi ofertada testagem;Coletiva;;1142;280;667;;x;x;x;x;x;x;x;x;;;;;;;;;;;;;;;;
-07/30/2020;Sexta-feira;07:00:00 PM;Vivência Trans 03 ;Instagram;;Online;IGTV;Não foi ofertada testagem;Coletiva;;1196;92;322;;x;x;x;x;x;x;x;x;;;;;;;;;;;;;;;;
-07/30/2020;Sexta-feira;03:00:00 PM;Anúncio da Live com Lucy;Instagram;;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;1192;44;44;;x;x;x;x;x;x;x;x;0;;0;0;2;0;0;0;;;;;;;;
-07/31/2020;Sábado;08:00:00 PM;Live Sobre Amanda Selfie com Lucy e Ika;Instagram;;Online;Live;Não foi ofertada testagem;Coletiva;;8382;25;Não consta no insta;0;x;x;x;x;x;x;x;x;;;;;;;;;;;;;;;;
-07/31/2020;Sábado;08:00:00 PM;Fervo 1519 com participantes com Maia, Ika e Audre;Zoom ;;Online;Zoom ;Não foi ofertada testagem;Coletiva;;4;1;;;x;x;x;x;x;x;x;x;2;300;;;;;;;;;;;;;;
-08/13/2020;Quinta-feira;09:00:00 PM;Live com Alina Durso e Audre;Instagram;;Online;Live;Não foi ofertada testagem;Coletiva;;22465;;82;;x;x;x;x;x;x;x;x;;;;;;;;;;;;;;;;
-08/21/2020;Sexta-feira;08:00:00 PM;Vídeo Pílula sobre esportes com Moira;Instagram;;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;1279;62;78;;x;x;x;x;x;x;x;x;0;0;0;0;1;1;0;0;;;;;;;;
-08/28/2020;Sexta-feira;08:00:00 PM;Live sobre a visibilidade Lésbica - Aude e Natali  ;Instagram;;Online;Live;Não foi ofertada testagem;Coletiva;;1284;;Não consta no insta;;x;x;x;x;x;x;x;x;;;;;;;;;;;;;;;;
-08/28/2020;Sexta-feira;09:10:00 PM;Vídeo Pílula - Repost visibilidade lésbica;Instagram;;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;1284;428;316;;x;x;x;x;x;x;x;x;;;;;;;;;;;;;;;;
-08/30/2020;Domingo;01:30:00 PM;Outras visões sobre sexo com Audre;Instagram;;Online;IGTV;Não foi ofertada testagem;Coletiva;;1281;410;640;;x;x;x;x;x;x;x;x;x;;;colocar envolvidos;colocar envolvidos;colocar envolvidos;x;;;;;;;;;
-09/04/2020;Sexta-feira;09:30:00 PM;Apresentação Cultural sobre ballroom;Facebook;;Online;Live;Não foi ofertada testagem;Coletiva;;9915;318;1100;;x;x;x;x;x;x;x;x;5;R$ 500,00;0;;1;1;;0;;;;;;;;
-09/04/2020;Sexta-feira;09:00:00 PM;Cultura Ballroom e prevenção às ISTs;Facebook;;Online;Live;Não foi ofertada testagem;Coletiva;;9915;219;230;;x;x;x;x;x;x;x;x;1;R$ 150,00;0;;1;1;;0;;;;;;;;
-09/08/2020;Segunda-feira;07:00:00 PM;Sexo e Covid;Instagram;;Online;IGTV;Não foi ofertada testagem;Coletiva;;1284;1014;949;2;;;;;x;x;x;x;0;0;1;;1;1;0;0;;;;;;;;
-09/11/2020;Sexta-feira;09:00:00 PM;Saúde Mental;Facebook;;Online;Live;Não foi ofertada testagem;Coletiva;;9915;233;371;;x;x;x;x;x;x;x;x;0;0;;2;1;1;OBS R$ 450,00;0;;;;;;;;
-09/19/2020;Sexta-feira;09:30:00 PM;Apresentação Cultural ;Facebook;;Online;Live;Não foi ofertada testagem;Coletiva;;9915;;Não consta no FB;;;;;;;;;;;205;;;1;1;;0;;;;;;;;
-09/19/2020;Sexta-feira;09:00:00 PM;Gerações Trans;Facebook;;Online;Live;Não foi ofertada testagem;Coletiva;;9915;327;Não consta no FB;;x;x;x;x;x;x;x;x;2;R$ 160,00;1;;1;1;OBS R$ 450,00;0;;;;;;;;
-09/25/2020;Sexta-feira;09:30:00 PM;Apresentação Cultural ;Facebook;;Online;Live;Não foi ofertada testagem;Coletiva;;9915;;711;1;x;x;x;x;x;x;x;x;;205;;;1;1;;0;;;;;;;;
-09/25/2020;Sexta-feira;09:00:00 PM;Produção Cultural na Quebrada;Facebook;;Online;Live;Não foi ofertada testagem;Coletiva;;9915;250;Não consta no FB;;x;x;x;x;x;x;x;x;2;R$ 160,00;1;;1;1;OBS R$ 450,00;0;;;;;;;;
-10/22/2020;Quinta-feira;09:00:00 PM;Vídeo Pílula - Chuca;Instagram;;Online;Vídeo Pílula;kit de prevenção;Coletiva;;1066;129;2745;;x;x;x;x;x;x;x;x;;;;;;1;;;;;;;;;;
-10/30/2020;Sexta-feira;09:00:00 PM;Pessoas Intersexo;Instagram;Eventual;Online;Live;Não foi ofertada testagem;Coletiva;;173916;;462;;x;x;x;x;x;x;x;x;1;0;1;;;1;;;;;;;;;;
-11/13/2020;Sexta-feira;;Reels Camisinha e Lubrificante;Instagram;Eventual;Online;Vídeo Pílula;Kit de Prevenção;Coletiva;;11451;303;12037;;x;x;x;x;x;x;x;x;0;0;0;0;0;1;Edição de Vídeo;0;0;0;0;0;0;0;;2
-11/13/2020;Sexta-feira;09:00:00 PM;Visibilidade Trans na perifereia e Empregabilidade;Facebook ;Eventual;Online;Live;kit de prevenção;Coletiva;;8957;136;Não consta no FB;0;x;x;x;x;x;x;x;x;2;160;1;0;0;1;x;0;;;;;;;;
-11/13/2020;Sexta-feira;;Lubrificante e Camisinha;Instagram;;;;;;;;;12037;;;;;;;;;;;;;;;;;;;;;;;;;
-11/14/2020;Sábado;;Gouinage X Penetração;Instagram;Eventual;Online;IGTV;Kit de Prevenção;Coletiva;;1055;;1448;0;x;x;x;x;x;x;x;x;0;0;1;0;0;1;Edição de Vídeo;0;0;0;0;0;0;0;;0
-11/27/2020;Sexta-feira;09:00:00 PM;Live Visibilidade Trans - Educação;Instagram;Eventual;Online;Live;Não foi ofertada testagem;Coletiva;;273;;617;0;x;x;x;x;x;x;x;x;1;160;0;0;0;1;0;0;0;0;0;0;0;0;;0
-12/01/2020;Terça-feira;09:00:00 PM;Live Mês do Combate ao HIV;Instagram;Eventual;Online;Live;Não foi ofertada testagem;Coletiva;;365;;751;0;x;x;x;x;x;x;x;x;1;160;1;0;0;1;0;0;0;0;0;0;0;0;;0
-12/17/2020;Quinta-feira;;Reels testagem;Instagram;Eventual;Online;Vídeo Pílula;Autoteste;Coletiva;;;354;16644;0;x;x;x;x;x;x;x;x;0;0;0;0;0;1;0;0;0;0;0;0;0;0;;0
-12/17/2020;Quinta-feira;;Prevenção Combinada;Instagram;;;;;;;;;16644;;;;;;;;;;;;;;;;;;;;;;;;;
-12/23/2020;Quarta-feira;;Prevenção ao HIV no mês da prevenção;Instagram;Eventual;Online;IGTV;Autoteste;Coletiva;;984;;1024;0;x;x;x;x;x;x;x;x;0;0;1;0;0;1;0;0;0;0;0;0;0;0;;0
-12/29/2020;Terça-feira;;Autoteste;Instagram;Eventual;Online;Vídeo Pílula;Autoteste;Coletiva;;100mil;13,1mil;123013;0;x;x;;x;x;x;x;x;0;0;0;0;0;1;0;0;0;0;1;0;0;0;;0
-12/29/2020;Terça-feira;;Autoteste;Instagram;;;;;;;;;123014;;;;;;;;;;;;;;;;;;;;;;;;;
-12/31/2020;Quinta-feira;09:00:00 PM;Retrospectiva 2020;Instagram;Eventual;Online;IGTV;Não foi ofertada testagem;Coletiva;;316;;707;0;x;x;x;x;x;x;x;x;0;0;0;1;0;1;Edição de Vídeo;0;0;0;0;0;0;0;;0
-01/02/2021;Sábado;;Antirracismo é o ano todo;Instagram;Eventual;Online;IGTV;Não foi ofertada testagem;Coletiva;;1609;;1141;0;x;x;;x;x;x;x;x;0;0;1;1;0;1;Edição de Vídeo;0;0;0;0;0;0;0;;0
-01/05/2021;Quarta-feira;06:00:00 PM;Pep para Prep - Amigo;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3722;2659;;;;;;;;;;;;;;;;;;;;;;;;;;
-01/06/2021;Quarta-feira;;Visibilidade Trans;Instagram;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;6239;291;7217;0;x;;;x;;x;x;x;0;0;0;0;0;1;0;0;0;0;0;0;0;0;;0
-01/06/2021;Quinta-feira;07:00:00 PM;Pep para Prep - Amigo;Tik Tok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;2903;;;;;;;;;;;;;;;;;;;;;;;;;;
-01/12/2021;Terça-feira;;Visibilidade Trans ;Instagram;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3288;84;3727;0;x;;;;;x;x;x;0;0;1;0;0;1;Edição de Vídeo;0;0;0;0;0;0;0;;0
-01/20/2021;Quarta-feira;;Visibilidade Trans ;Instagram;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3726;151;4125;0;x;;;;;x;x;x;0;0;0;1;0;1;Edição de vídeo;;;;;;;;;
-01/24/2021;Domingo;;Visibilidade Trans ;Instagram;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4399;130;4819;0;x;;;;;x;;x;0;0;1;0;0;1;Edição de vídeo;;;;;;;;;
-01/29/2021;Sexta-feira;09:00:00 PM;Visibilidade Trans na Periferia;Instagram;Eventual;Online;Live;Não foi ofertada testagem;Coletiva;;;118;553;0;x;;;;;;;x;2;320;1;0;0;1;0;0;0;0;0;0;0;0;;0
-01/30/2021;Sábado;07:00:00 PM;Lançamento da CT;Facebook;Eventual;Online;Live;Não foi ofertada testagem;Coletiva;;;;638;0;x;;;;;;;;1;250;;;;;;0;0;0;0;0;0;0;0;0
-01/30/2021;Sábado;03:00:00 PM;Mês da visibilidade trans;Instagram;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;9284;250;266;0;x;;;;;;;;0;0;1;0;0;1;Edição de vídeo;0;0;0;0;0;0;0;0;0
-02/11/2021;Quinta-feira;07:00:00 PM;Decisão PrEP;Instagram;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;1915;4503;4587;0;;;;;;;;;0;0;0;0;0;1;Edição de vídeo;0;0;0;0;0;0;0;0;0
-02/15/2021;;;Apresentação Equipe na CT;Instagram;;;;;;;;;769;;;;;;;;;;;;;;;;;;;;;;;;;
-02/27/2021;Sábado;09:00:00 PM;O que é não-binariedade;Instagram;Eventual;Online;Live;Não foi ofertada testagem;Coletiva;;1980;502;640;0;;;;;;;;;1;160;0;0;0;1;Edição de vídeo;0;0;0;0;0;0;0;0;0
-02/28/2021;Domingo;02:00:00 PM;PrEP para menores de 18;Instagram;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;1982;6404;6466;0;;;;;;;;;0;0;0;0;0;1;Edição de vídeo;0;0;0;0;0;0;0;0;0
-03/03/2021;Quarta-feira;05:00:00 PM;Casa1;Instagram;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;1994;1365;1439;0;;;;;;;;;0;0;0;0;0;1;Edição de vídeo;0;0;0;0;0;0;0;0;0
-03/11/2021;Quinta-feira;07:00:00 PM;Apresentação da CT;Instagram;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2001;3619;3821;0;;;;;;;;;0;0;2;0;0;1;Edição de vídeo;0;0;0;0;0;0;0;0;0
-03/13/2021;Sábado;01:00:00 PM;Apresentação da CT;Instagram;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2005;2420;2565;0;;;;;;;;;0;0;2;0;0;1;Edição de vídeo;0;0;0;0;0;0;0;0;0
-03/17/2021;Quarta-feira;07:00:00 PM;Mês das mulheres;Instagram;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2030;3663;3759;1;;;;;;;;;0;0;0;0;0;1;Edição de vídeo;0;0;0;0;0;0;0;0;0
-03/23/2021;Terça-feira;06:00:00 PM;Modo de Prevenção;Instagram;Eventual;Online;IGTV;Não foi ofertada testagem;Coletiva;;2035;630;974;0;;;;;;;;;0;0;1;1;0;1;Edição de vídeo;0;0;0;0;0;0;0;0;0
-03/25/2021;Quinta-feira;08:00:00 PM;Pessoas trans em 2021;Instagram;Eventual;Online;IGTV;Não foi ofertada testagem;Coletiva;;2040;583;611;0;;;;;;;;;0;0;1;0;0;1;Edição de vídeo;0;0;0;0;0;0;0;0;0
-03/27/2021;Sábado;09:00:00 PM;Respeite pessoas trans;Instagram;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2043;5238;5332;0;;;;;;;;;0;0;0;1;0;1;Edição de vídeo;0;0;0;0;0;0;0;0;0
-04/02/2021;Sexta-feira;07:30:00 PM;E se a prevenção der errado;Instagram;Eventual;Online;IGTV;Não foi ofertada testagem;Coletiva;;2050;741;785;0;;;;;;;;;0;0;1;0;0;1;Edição de vídeo;0;0;0;0;0;0;0;0;0
-04/27/2021;Terça-feira;09:30:00 PM;ÊÊÊ -  Trend;Instagram;Eventual;Online;Vídeo Pílula;Teste Rápido;Coletiva;;2125;100000;118712;3;;;;;;;;;0;0;0;0;0;1;Edição de vídeo;0;0;0;0;0;0;0;0;0
-05/01/2021;Sexta-feira;07:00:00 PM;Dia do trabalho;Instagram;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2150;4300;4393;0;;;;;;;;;0;0;0;0;0;1;Edição de vídeo;0;0;0;0;0;0;0;0;0
-05/07/2021;Sexta-feira;06:00:00 PM;Dúvidas sobre prevenção combinada;Instagram;Eventual;Online;IGTV;Teste Rápido;Coletiva;;2176;469;757;3;;;;;;;;;;;;;;;Edição de vídeo;0;0;0;0;0;0;0;0;0
-05/08/2021;Sábado;09:00:00 PM;Fica em casa;Instagram;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2200;4163;4247;2;;;;;;;;;0;0;0;0;0;1;Edição de vídeo;0;0;0;0;0;0;0;0;0
-05/09/2021;Domingo;02:00:00 PM;Precisamos falar sobre LGBTfobia;Instagram;Eventual;Online;IGTV;Não foi ofertada testagem;Coletiva;;2181;1316;1360;0;;;;;;;;;;;;;;;Edição de vídeo;0;0;0;0;0;0;0;0;0
-05/11/2021;Terça-feira;07:00:00 PM;Dizia que se prevenia;Instagram;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2250;2888;3001;0;;;;;;;;;0;0;0;0;0;1;Edição de vídeo;0;0;0;0;0;0;0;0;0
-05/12/2021;Quarta-feira;09:00:00 PM;Live com o PoupaTrans;Instagram;Eventual;Online;Live;Não foi ofertada testagem;Coletiva;;4240;387;445;1;;;;;;;;;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
-05/26/2021;Quarta-feira;07:00:00 PM;PrEP falante;Instagram;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2349;3678;4315;1;;;;;;;;;0;0;0;0;0;1;Edição de vídeo;0;0;0;0;0;0;0;0;0
-05/28/2021;Sexta-feira;08:00:00 PM;Dia da Família;Instagram;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2355;768;958;0;;;;;;;;;0;0;0;0;0;1;Edição de vídeo;0;0;0;0;0;0;0;0;0
-06/01/2021;Terça-feira;08:30:00 PM;Testagem 1;Instagram;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2363;4397;4569;1;;;;;;;;;0;0;0;0;0;1;Edição de vídeo;0;0;0;0;0;0;0;0;0
-06/04/2021;Sexta-feira;07:00:00 PM;Testagem 2;Instagram;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2370;5585;6042;0;;;;;;;;;0;0;0;0;0;1;Edição de vídeo;0;0;0;0;0;0;0;0;0
-06/19/2021;Sábado;07:00:00 PM;PrEP1519 na Cidade Tiradentes;Instagram;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2380;3324;3450;;;;;;;;;;0;0;0;0;0;1;Edição de vídeo;0;0;0;0;0;0;0;0;0
-06/22/2021;Terça-feira;08:00:00 PM;Relação com pessoas trans no sigilo;Instagram;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2420;4142;4349;;;;;;;;;;0;0;0;0;0;1;Edição de vídeo;0;0;0;0;0;0;0;0;0
-06/26/2021;Sábado;02:00:00 PM;Projetos para LGBT em São Paulo;Instagram;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2430;1794;1943;;;;;;;;;;0;0;0;0;0;1;Edição de vídeo;0;0;0;0;0;0;0;0;0
-06/29/2021;Terça-feira;07:30:00 PM;HIV e transfemininas;Instagram;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2437;5252;5501;;;;;;;;;;0;0;0;0;0;1;Edição de vídeo;0;0;0;0;0;0;0;0;0
-07/03/2021;Sábado;02:00:00 PM;PrEP na Cidade Tiradentes;Instagram;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2450;1604;1875;;;;;;;;;;0;0;0;0;0;1;Edição de vídeo;0;0;0;0;0;0;0;0;0
-07/14/2021;Quarta-feira;07:00:00 PM;LGBTfobia na escola;Instagram;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2459;2803;2896;;;;;;;;;;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
-07/19/2021;Segunda-feira;06:30:00 PM;Vídeo Erika Hilton;Instagram;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2462;3197;3334;;;;;;;;;Não tem;1;0;0;0;0;1;Edição de vídeo;0;0;0;0;0;0;0;0;0
-07/19/2021;Segunda-feira;06:30:00 PM;Vídeo Erika Hilton;TikTok;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4191;1254;2546;;;;;;;;;Não tem;1;0;0;0;0;1;Edição de vídeo;0;0;0;0;0;0;0;0;0
-07/21/2021;Quarta-feira;08:00:00 PM;Adolescentes fazem sexo;Instagram;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2469;1518;1711;;;;;;;;;;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
-07/24/2021;Sábado;07:00:00 PM;O que é PrEP;Instagram;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2475;7635;8060;;;;;;;;;;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
-07/27/2021;Terça-feira;08:00:00 PM;Sexo na Pandemia;Instagram;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2478;1096;1249;;;;;;;;;;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
-07/27/2021;Terça-feira;08:00:00 PM;Sexo na Pandemia;TikTok;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4191;1743;2061;;;;;;;;;;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
-08/02/2021;Segunda-feira;06:00:00 PM;Preservativo incomoda?;Instagram;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2486;4408;5696;;;;;;;;;;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
-08/02/2021;Segunda-feira;06:00:00 PM;Preservativo incomoda?;TikTok;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4191;2499;3120;;;;;;;;;;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
-08/03/2021;Terça-feira;05:30:00 PM;Ensino de IST na escola;Instagram;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2497;2441;3532;;;;;;;;;;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
-08/07/2021;Sábado;12:00:00 PM;Novo Kit de Prevenção;Instagram;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2600;8368;10257;;;;;;;;;;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
-08/08/2021;Domingo;02:00:00 PM;Projeto Respeito tem nome;Instagram;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2615;4219;4764;;;;;;;;;;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
-08/14/2021;;;Agosto Indígena;Instagram;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3477;34844;37685;;;;;;;;;;1;83.33;0;0;0;1;0;0;0;0;0;0;0;0;0;0
-08/14/2021;;;Agosto Indígena;TikTok;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;;56400;;;;;;;;;;1;83.33;0;0;0;1;0;0;0;0;0;0;0;0;0;0
-08/21/2021;Domingo;;PrEP para menores de 18;Instagram;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3477;4639;4744;;;;;;;;;;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
-08/24/2021;Domingo;;Agosto Lésbico e trans;TikTok;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3477;4829;667;;;;;;;;;;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
-08/24/2021;;;Discutindo sobre PrEP;TikTok;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;;449;;;;;;;;;;;;;;;;;;;;;;;;;
-08/28/2021;Segunda-feira;;Dia Internacional do Orgulho LGBT;Instagram;;;;;;;;;298;;;;;;;;;;;;;;;;;;;;;;;;;
-08/29/2021;Domingo;;Agosto Lésbico e trans;Instagram;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3477;4829;4635;;;;;;;;;;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
-08/30/2021;Segunda-feira;;Pedido do Kit;Instagram;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3477;827;1059;;;;;;;;;;;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
-08/30/2021;Segunda-feira;;Pedido do Kit;TikTok;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3477;827;734;;;;;;;;;;;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
-09/18/2021;Sábado;;Adolescentes no serviço de saúde;TikTok;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5230;11400;12600;0;;;;;;;;;0;0;0;0;1;1;0;0;0;;0;0;0;0;0;0
-09/18/2021;Sábado;;Adolescentes no serviço de saúde;Instagram;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3500;2389;2389;0;;;;;;;;;;;;;;;;;;;;;;;;
-09/20/2021;Terça-feira;;Monogamia com Prevenção de IST;TikTok;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5230;4138;4556;0;;;;;;;;;;;;;;;;;;;;;;;;
-09/20/2021;Terça-feira;;Monogamia com Prevenção de IST;Instagram;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3507;2732;2730;0;;;;;;;;;;;;;;;;;;;;;;;;
-09/21/2021;Quarta-feira;;Acesso a informação e continuade de PrEP;TikTok;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5231;237;428;;;;;;;;;;;;;;;;;;;;;;;;;
-09/21/2021;Quarta-feira;;Acesso a informação e continuade de PrEP;Instagram;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3509;1741;2071;0;;;;;;;;;;;;;;;;;;;;;;;;
-09/23/2021;Quinta-feira;;Visibilidade Bissexual;TikTok;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5233;544;827;0;;;;;;;;;;;;;;;;;;;;;;;;
-09/23/2021;Quinta-feira;;Visibilidade Bissexual;Instagram;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3511;1754;2800;0;;;;;;;;;;;;;;;;;;;;;;;;
-09/24/2021;Sexta-feira;;Divulgação do Projeto;TikTok;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3513;159;416;0;;;;;;;;;;;;;;;;;;;;;;;;
-09/24/2021;Sexta-feira;;Divulgação do Projeto;Instagram;Eventual;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5237;183;678;0;;;;;;;;;;;;;;;;;;;;;;;;
-09/29/2021;Quinta-feira;;Setembro Amarelo;Instagram;Não Patrocinado;Online;IGTV;Não foi ofertada testagem;Coletiva;;;1472;1599;;;;;;;;;;;;;;;1;;;;;;;;;;
-10/07/2021;Quinta-feira;;Transar sem camisinha;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;3476;3702;;;;;;;;;;;;;;;1;;;;;;;;;;
-10/09/2021;Sábado;;Vacinação;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;346;506;;;;;;;;;;;;;;;1;;;;;;;;;;
-10/11/2021;Segunda-feira;;Prevenção ao suicídio ;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;3070;3459;;;;;;;;;;;;;;;1;;;;;;;;;;
-10/13/2021;Quarta-feira;;Redesignação Sexual ;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;872;1474;;;;;;;;;;;;;;;1;;;;;;;;;;
-10/15/2021;Sexta-feira;;Saída do Armário;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;921;1180;;;;;;;;;;;;;;;1;;;;;;;;;;
-10/21/2021;Quinta-feira;05:54:00 PM;Kit 2;TikTok;Não Patrocinado;Online;Vídeo Pílula;Autoteste;Coletiva;;5650;1792;1406;;;;;;;;;;;;;;;1;;;;;;;;;;
-10/21/2021;Quinta-feira;05:54:00 PM;Kit 2;Instagram;Não Patrocinado;Online;Vídeo Pílula;Autoteste;Coletiva;;3601;1288;3206;;;;;;;;;;;;;;;1;;;;;;;;;;
-10/25/2021;Segunda-feira;06:50:00 PM;Cancer de Mama;TikTok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5681;;237;;;;;;;;;;;;;;;1;;;;;;;;;;
-10/25/2021;Segunda-feira;06:50:00 PM;Cancer de Mama;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3605;1907;1953;;;;;;;;;;;;;;;1;;;;;;;;;;
-10/26/2021;;;Visibilidade Intersexo;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3604;571;599;;;;;;;;;;;;;;;1;;;;;;;;;;
-10/26/2021;;;Visibilidade Intersexo;Tik Tok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;303;308;;;;;;;;;;;;;;;1;;;;;;;;;;
-11/04/2021;;;Chemsex;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3615;1264;1341;;;;;;;;;;;;;;;1;;;;;;;;;;
-11/04/2021;;;Chemsex;Tik Tok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;3070;4532;;;;;;;;;;;;;;;1;;;;;;;;;;
-11/05/2021;;;Sigilosos;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3617;2121;2155;;;;;;;;;;;;;;;1;;;;;;;;;;
-11/05/2021;;;Sigilosos;Tik Tok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;222;224;;;;;;;;;;;;;;;1;;;;;;;;;;
-11/08/2021;;;Indicação de PrEP;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3622;3225;3269;;;;;;;;;;;;;;;1;;;;;;;;;;
-11/08/2021;;;Indicação de PrEP;Tik Tok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;1427;1536;;;;;;;;;;;;;;;1;;;;;;;;;;
-11/10/2021;;;Devo usar PrEP?;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3621;516;583;;;;;;;;;;;;;;;1;;;;;;;;;;
-11/10/2021;;;Devo usar PrEP?;Tik Tok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;207;214;;;;;;;;;;;;;;;1;;;;;;;;;;
-11/15/2021;;;Lubrificantes ;Instagram;Não Patrocinado;Online;Vídeo Pílula;Autoteste;Coletiva;;3627;1753;1860;;;;;;;;;;;;;;;1;;;;;;;;;;
-11/15/2021;;;Lubrificantes ;Tik Tok;Não Patrocinado;Online;Vídeo Pílula;Autoteste;Coletiva;;;198;1449;;;;;;;;;;;;;;;1;;;;;;;;;;
-11/16/2021;;;Sugar daddy;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3628;893;980;;;;;;;;;;;;;;;1;;;;;;;;;;
-11/16/2021;;;Sugar daddy;Tik Tok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;696;718;;;;;;;;;;;;;;;1;;;;;;;;;;
-11/19/2021;;;Retificação e Poupatrans ;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3632;2487;2604;;;;;;;;;;;;;;;1;;;;;;;;;;
-11/19/2021;;;Retificação e Poupatrans ;Tik Tok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;265;269;;;;;;;;;;;;;;;1;;;;;;;;;;
-11/26/2021;;;Serviços da PrEP 1519;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3648;2261;2369;;;;;;;;;;;;;;;1;;;;;;;;;;
-11/26/2021;;;Serviços da PrEP 1519;Tik Tok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;243;269;;;;;;;;;;;;;;;1;;;;;;;;;;
-11/30/2021;;;Relacionamento fechado e uso de PrEP;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3659;5175;5252;;;;;;;;;;;;;;;1;;;;;;;;;;
-11/30/2021;;;Relacionamento fechado e uso de PrEP;Tik Tok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;2840;2872;;;;;;;;;;;;;;;1;;;;;;;;;;
-12/02/2021;;;Kit de prevenção ;Instagram;Não Patrocinado;Online;Vídeo Pílula;Autoteste;Coletiva;;3661;615;727;;;;;;;;;;;;;;;1;;;;;;;;;;
-12/02/2021;;;Kit de prevenção ;Tik Tok;Não Patrocinado;Online;Vídeo Pílula;Autoteste;Coletiva;;;1328;1411;;;;;;;;;;;;;;;1;;;;;;;;;;
-12/08/2021;;;Sou versátil ;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3665;2827;3014;;;;;;;;;;;;;;;1;;;;;;;;;;
-12/08/2021;;;Sou versátil ;Tik Tok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;;Não consta no Tiktok;;;;;;;;;;;;;;;1;;;;;;;;;;
-12/09/2021;;;Locais dos serviços ;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3674;1531;1655;;;;;;;;;;;;;;;1;;;;;;;;;;
-12/09/2021;;;Locais dos serviços ;Tik Tok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;528;545;;;;;;;;;;;;;;;1;;;;;;;;;;
-12/13/2021;;;Cuidados online ;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3679;1450;1588;;;;;;;;;;;;;;;1;;;;;;;;;;
-12/13/2021;;;Cuidados online ;Tik Tok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;481;493;;;;;;;;;;;;;;;1;;;;;;;;;;
-12/15/2021;;;Kit de prevenção ;Instagram;Não Patrocinado;Online;Vídeo Pílula;Autoteste;Coletiva;;3685;1016;1182;;;;;;;;;;;;;;;1;;;;;;;;;;
-12/15/2021;;;Kit de prevenção ;Tik Tok;Não Patrocinado;Online;Vídeo Pílula;Autoteste;Coletiva;;;520;546;;;;;;;;;;;;;;;1;;;;;;;;;;
-12/17/2021;Sexta-feira;07:50:00 PM;Não se testa e nem usa camisinha;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3689;4097;4283;;;;;;;;;;;;;;;;;;;;;;;;;
-12/17/2021;Sexta-feira;07:50:00 PM;Não se testa e nem usa camisinha;Tik Tok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;1313;1335;;;;;;;;;;;;;;;;;;;;;;;;;
-12/22/2021;Quarta-feira;05:50:00 PM;Viajar com a PrEP;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3702;4243;4408;;;;;;;;;;;;;;;;;;;;;;;;;
-12/22/2021;Quarta-feira;;Viajar com a PrEP;Tik Tok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;475;503;;;;;;;;;;;;;;;;;;;;;;;;;
-12/24/2021;Sexta-feira;06:30:00 PM;POV PrEP;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3699;3681;3023;;;;;;;;;;;;;;;;;;;;;;;;;
-12/24/2021;;;POV PrEP;Tik Tok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;1549;1609;;;;;;;;;;;;;;;;;;;;;;;;;
-12/28/2021;Terça-feira;07:00:00 PM;Consulta prep 1519;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3710;2765;3543;;;;;;;;;;;;;;;;;;;;;;;;;
-12/28/2021;;;Consulta prep 1520;Tik Tok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;232;263;;;;;;;;;;;;;;;;;;;;;;;;;
-12/30/2021;Quinta-feira;07:50:00 PM;Vacina HPV e Hepatite;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3720;1162;2325;;;;;;;;;;;;;;;;;;;;;;;;;
-01/02/2022;Domingo;06:00:00 PM;Não usa camisinha ;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3717;1811;;;;;;;;;;;;;;;;;;;;;;;;;;
-01/02/2022;Domingo;06:00:00 PM;Não usa camisinha ;Tik Tok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;645;1076;;;;;;;;;;;;;;;;;;;;;;;;;
-01/03/2022;Segunda-feira;07:30:00 PM;Julgamento Prep ;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3715;878;;;;;;;;;;;;;;;;;;;;;;;;;;
-01/03/2022;Segunda-feira;07:30:00 PM;Julgamento Prep ;Tik Tok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;559;606;;;;;;;;;;;;;;;;;;;;;;;;;
-01/10/2022;Segunda-feira;12:20:00 PM;Cada um se previne da forma que quer;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3718;2937;;;;;;;;;;;;;;;;;;;;;;;;;;
-01/10/2022;Segunda-feira;01:20:00 PM;Cada um se previne da forma que quer;Tik Tok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-01/12/2022;Quarta-feira;06:30:00 PM;Dicas de Prevenção ;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3759;10746;;;;;;;;;;;;;;;;;;;;;;;;;;
-01/12/2022;Quarta-feira;07:30:00 PM;Dicas de Prevenção ;Tik Tok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;3729;;;;;;;;;;;;;;;;;;;;;;;;;;
-01/17/2022;Segunda-feira;06:50:00 PM;Transfobia - Trend;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3758;4283;;;;;;;;;;;;;;;;;;;;;;;;;;
-01/17/2022;Segunda-feira;07:50:00 PM;Transfobia - Trend;Tik Tok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;4029;;;;;;;;;;;;;;;;;;;;;;;;;;
-01/19/2022;Quarta-feira;07:00:00 PM;Colocar a cabecinha;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3768;1001;;;;;;;;;;;;;;;;;;;;;;;;;;
-01/19/2022;Quarta-feira;07:00:00 PM;Colocar a cabecinha;Tik Tok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5961;471;;;;;;;;;;;;;;;;;;;;;;;;;;
-02/10/2022;Quinta-feira;06:00:00 PM;Trend - Explicando PrEP;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3795;1903;;;;;;;;;;;;;;;;;;;;;;;;;;
-02/10/2022;Quinta-feira;07:00:00 PM;Trend - Explicando PrEP;Tik Tok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5943;2096;;;;;;;;;;;;;;;;;;;;;;;;;;
-02/13/2022;Domingo;02:00:00 PM;Trend - Suggar Daddy;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3802;2094;;;;;;;;;;;;;;;;;;;;;;;;;;
-02/14/2022;Segunda-feira;06:00:00 PM;Trend - Suggar Daddy;Tik Tok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5941;31;;;;;;;;;;;;;;;;;;;;;;;;;;
-02/15/2022;Terça-feira;07:00:00 PM;Só transa sem camisinha comigo;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3799;428;;;;;;;;;;;;;;;;;;;;;;;;;;
-02/15/2022;Terça-feira;08:00:00 PM;Só transa sem camisinha comigo;Tik Tok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5941;32;;;;;;;;;;;;;;;;;;;;;;;;;;
-02/18/2022;Sexta-feira;06:00:00 PM;Preconceito com quem toma PrEP;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3797;3103;;;;;;;;;;;;;;;;;;;;;;;;;;
-02/18/2022;Sexta-feira;06:00:00 PM;Preconceito com quem toma PrEP;Tik Tok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5927;382;;;;;;;;;;;;;;;;;;;;;;;;;;
-02/20/2022;Domingo;02:00:00 PM;Emojis - PrEP;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3808;649;;;;;;;;;;;;;;;;;;;;;;;;;;
-02/20/2022;Domingo;02:00:00 PM;Emojis - PrEP;Tik Tok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5928;334;;;;;;;;;;;;;;;;;;;;;;;;;;
-03/02/2022;Quarta-feira;06:15:00 PM;Repost - Bi x Pan;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3800;4314;;;;;;;;;;;;;;;;;;;;;;;;;;
-03/16/2022;Quarta-feira;06:00:00 PM;Convite - Resenha Babado ;Tik Tok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5915;64;;;;;;;;;;;;;;;;;;;;;;;;;;
-03/16/2022;Quarta-feira;06:00:00 PM;Convite - Resenha Babado ;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3772;2245;;;;;;;;;;;;;;;;;;;;;;;;;;
-03/30/2022;Quarta-feira;06:00:00 PM;Discussão - Prevenção Combinada;Tik Tok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5903;2;;;;;;;;;;;;;;;;;;;;;;;;;;
-03/30/2022;Quarta-feira;06:00:00 PM;Discussão - Prevenção Combinada;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3774;2880;;;;;;;;;;;;;;;;;;;;;;;;;;
-04/01/2022;Sexta-feira;06:45:00 PM;Festa de Familia - Vivência Trans;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3783;1912;;;;;;;;;;;;;;;;;;;;;;;;;;
-04/11/2022;Segunda-feira;06:00:00 PM;Insegurança - Trans ;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3791;3532;;;;;;;;;;;;;;;;;;;;;;;;;;
-04/15/2022;Sexta-feira;07:30:00 PM;Prep 1519;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3804;1658;;;;;;;;;;;;;;;;;;;;;;;;;;
-04/22/2022;Sexta-feira;09:00:00 PM;Repost - LGBT;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3835;3616;;;;;;;;;;;;;;;;;;;;;;;;;;
-04/26/2022;Terça-feira;06:00:00 PM;Repost - Afem;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3849;2509;;;;;;;;;;;;;;;;;;;;;;;;;;
-04/30/2022;Sábado;09:00:00 PM;Prep apenas para quem transa bastante;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3865;3152;;;;;;;;;;;;;;;;;;;;;;;;;;
-05/06/2022;Sexta-feira;09:00:00 PM;Quando o boy usa prep;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3870;3877;;;;;;;;;;;;;;;;;;;;;;;;;;
-05/09/2022;Segunda-feira;06:30:00 PM;Quando o boy usa prep;Tik Tok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5953;24;;;;;;;;;;;;;;;;;;;;;;;;;;
-05/10/2022;Terça-feira;11:30:00 PM;Repost - Rejeição ;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3876;498;;;;;;;;;;;;;;;;;;;;;;;;;;
-05/13/2022;Sexta-feira;06:45:00 PM;Repost - Brinquedos;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3871;2273;;;;;;;;;;;;;;;;;;;;;;;;;;
-05/23/2022;Segunda-feira;06:30:00 PM;Repost - Bora Marcar;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3866;2704;;;;;;;;;;;;;;;;;;;;;;;;;;
-05/26/2022;Quinta-feira;07:00:00 PM;Repost - História Travesti;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3879;5255;;;;;;;;;;;;;;;;;;;;;;;;;;
-05/31/2022;Terça-feira;08:00:00 PM;Prep Falante - Camisinha Interna;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3891;5529;;;;;;;;;;;;;;;;;;;;;;;;;;
-05/31/2022;Terça-feira;08:00:00 PM;Prep Falante - Camisinha Interna;TikTok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5955;3;;;;;;;;;;;;;;;;;;;;;;;;;;
-06/04/2022;Sábado;08:00:00 PM;Repost - Balada Gay x HT;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3899;4222;;;;;;;;;;;;;;;;;;;;;;;;;;
-06/10/2022;Sexta-feira;09:00:00 PM;Saída do Armário 2 ;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3910;3617;;;;;;;;;;;;;;;;;;;;;;;;;;
-06/18/2022;Sábado;10:00:00 PM;Pré-Parada;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3919;1651;;;;;;;;;;;;;;;;;;;;;;;;;;
-06/20/2022;Segunda-feira;06:50:00 PM;Haters da Prep;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3920;809;;;;;;;;;;;;;;;;;;;;;;;;;;
-06/20/2022;Segunda-feira;06:50:00 PM;Haters da Prep;TikTok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5948;38;;;;;;;;;;;;;;;;;;;;;;;;;;
-06/26/2022;Domingo;10:00:00 PM;Fetiche;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3917;6736;;;;;;;;;;;;;;;;;;;;;;;;;;
-07/04/2022;Segunda-feira;07:00:00 PM;Vamos falar sobre IST - 1;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3922;3960;;;;;;;;;;;;;;;;;;;;;;;;;;
-07/04/2022;Segunda-feira;07:00:00 PM;Vamos falar sobre IST - 1;Tiktok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5952;457;;;;;;;;;;;;;;;;;;;;;;;;;;
-07/07/2022;Quinta-feira;10:00:00 PM;Grindr - Vivência;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3932;4990;;;;;;;;;;;;;;;;;;;;;;;;;;
-07/08/2022;Sexta-feira;10:00:00 PM;Lubrificantes - 2;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3935;5481;;;;;;;;;;;;;;;;;;;;;;;;;;
-07/13/2022;Quarta-feira;10:30:00 PM;Grindr - Vivência 2;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3942;3523;;;;;;;;;;;;;;;;;;;;;;;;;;
-07/16/2022;Sábado;10:00:00 PM;Agradecimento participante do projeto;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3943;442;;;;;;;;;;;;;;;;;;;;;;;;;;
-07/18/2022;Segunda-feira;12:00:00 PM;Agradecimento participante do projeto;Tiktok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5952;190;;;;;;;;;;;;;;;;;;;;;;;;;;
-07/18/2022;Segunda-feira;08:00:00 PM;Amigos criticam a Prep;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3943;2188;;;;;;;;;;;;;;;;;;;;;;;;;;
-07/18/2022;Segunda-feira;08:00:00 PM;Amigos criticam a Prep;Tiktok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5952;268;;;;;;;;;;;;;;;;;;;;;;;;;;
-07/20/2022;Quarta-feira;08:00:00 PM;Repost - Meu pau é maior que o dele ;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3943;3243;;;;;;;;;;;;;;;;;;;;;;;;;;
-07/24/2022;Domingo;07:00:00 PM;Repost - Dois versáteis;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3943;3746;;;;;;;;;;;;;;;;;;;;;;;;;;
-07/24/2022;Domingo;07:00:00 PM;Repost - Dois versáteis;Tiktok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5952;23;;;;;;;;;;;;;;;;;;;;;;;;;;
-07/25/2022;Segunda-feira;08:00:00 PM;Transição ;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3939;1877;;;;;;;;;;;;;;;;;;;;;;;;;;
-07/25/2022;Segunda-feira;08:00:00 PM;Transição ;Tiktok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5951;239;;;;;;;;;;;;;;;;;;;;;;;;;;
-07/28/2022;Quinta-feira;07:00:00 PM;Hipocrisia - Contra a natureza;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3940;3415;;;;;;;;;;;;;;;;;;;;;;;;;;
-07/28/2022;Quinta-feira;07:00:00 PM;Hipocrisia - Contra a natureza;Tiktok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5951;2374;;;;;;;;;;;;;;;;;;;;;;;;;;
-08/16/2022;Terça-feira;06:50:00 PM;Todos saindo do armário;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3941;9947;;;;;;;;;;;;;;;;;;;;;;;;;;
-08/19/2022;Sexta-feira;10:00:00 PM;Na frente da Mãe x Na frente do Pai;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3942;10785;;;;;;;;;;;;;;;;;;;;;;;;;;
-08/22/2022;Segunda-feira;07:00:00 PM;Repost - Pep depois da Balada ;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3946;2750;;;;;;;;;;;;;;;;;;;;;;;;;;
-08/24/2022;Quarta-feira;10:00:00 PM;Repost - Duas passivas;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3949;6819;;;;;;;;;;;;;;;;;;;;;;;;;;
-08/26/2022;Sexta-feira;07:00:00 PM;Camisinha desolada - Prep Falante;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3950;875;;;;;;;;;;;;;;;;;;;;;;;;;;
-08/26/2022;Sexta-feira;07:00:00 PM;Camisinha desolada - Prep Falante;Tiktok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5979;1715;;;;;;;;;;;;;;;;;;;;;;;;;;
-08/29/2022;Segunda-feira;07:00:00 PM;Repost - Aparencia de Hetero;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3952;5119;;;;;;;;;;;;;;;;;;;;;;;;;;
-09/01/2022;Quinta-feira;10:00:00 PM;Repost - Boy no sigilo;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3956;1631;;;;;;;;;;;;;;;;;;;;;;;;;;
-09/04/2022;Domingo;08:00:00 PM;Repost -  Esperando o Boy pegar Lub;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3951;5795;;;;;;;;;;;;;;;;;;;;;;;;;;
-09/07/2022;Quarta-feira;08:00:00 PM;Repost -  Alcool na Balada ;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3952;1359;;;;;;;;;;;;;;;;;;;;;;;;;;
-09/08/2022;Quinta-feira;07:00:00 PM;Se mamar no carro fosse crime;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3947;3094;;;;;;;;;;;;;;;;;;;;;;;;;;
-09/08/2022;Quinta-feira;07:00:00 PM;Se mamar no carro fosse crime;Tiktok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5966;447;;;;;;;;;;;;;;;;;;;;;;;;;;
-09/12/2022;Segunda-feira;07:00:00 PM;Kit - Set 2022;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3942;527;;;;;;;;;;;;;;;;;;;;;;;;;;
-09/12/2022;Segunda-feira;07:00:00 PM;Kit - Set 2022;Tiktok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5969;175;;;;;;;;;;;;;;;;;;;;;;;;;;
-09/18/2022;Segunda-feira;08:00:00 PM;Repost - Efeito Hormônio ;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3939;2437;;;;;;;;;;;;;;;;;;;;;;;;;;
-09/20/2022;Terça-feira;08:00:00 PM;Repost - Mar;;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3940;5053;;;;;;;;;;;;;;;;;;;;;;;;;;
-09/26/2022;Segunda-feira;06:55:00 PM;Sigilo - Luna ;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3934;777;;;;;;;;;;;;;;;;;;;;;;;;;;
-09/26/2022;Segunda-feira;06:55:00 PM;Sigilo - Luna ;Tiktok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5962;574;;;;;;;;;;;;;;;;;;;;;;;;;;
-09/29/2022;Quinta-feira;08:00:00 PM;Mudança de Voz - Repost;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3943;908;;;;;;;;;;;;;;;;;;;;;;;;;;
-09/30/2022;Quinta-feira;10:00:00 PM;Locais dos serviços - Luna;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3948;810;;;;;;;;;;;;;;;;;;;;;;;;;;
-10/02/2022;Sábado;10:00:00 PM;Julgamento Prep 2;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3953;625;;;;;;;;;;;;;;;;;;;;;;;;;;
-10/02/2022;Sábado;10:00:00 PM;Julgamento Prep 2;Tiktok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5961;11;;;;;;;;;;;;;;;;;;;;;;;;;;
-10/06/2022;Quinta-feira;10:00:00 PM;Prevenção Combinada - Luna;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3957;1744;;;;;;;;;;;;;;;;;;;;;;;;;;
-10/06/2022;Quinta-feira;10:00:00 PM;Prevenção Combinada - Luna;Tiktok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5962;1;;;;;;;;;;;;;;;;;;;;;;;;;;
-10/07/2022;Sexta-feira;10:10:00 PM;Não Tomei minha Prep para nada - Repost;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3953;2931;;;;;;;;;;;;;;;;;;;;;;;;;;
-10/10/2022;Segunda-feira;07:00:00 PM;Locais dos serviços - Luna;Tiktok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5961;278;;;;;;;;;;;;;;;;;;;;;;;;;;
-10/10/2022;Segunda-feira;10:10:00 PM;Amiga barraqueira;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3954;1228;;;;;;;;;;;;;;;;;;;;;;;;;;
-10/14/2022;Sexta-feira;08:00:00 PM;Visão dos homens heteros sobre amigo com namorada trans;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3948;10789;;;;;;;;;;;;;;;;;;;;;;;;;;
-10/20/2022;Quinta-feira;10:00:00 PM;Esteriótipos LGBTQIA;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3952;168494;;;;;;;;;;;;;;;;;;;;;;;;;;
-10/26/2022;Quarta-feira;10:10:00 PM;Amigas sumiram com boy;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4016;1612;;;;;;;;;;;;;;;;;;;;;;;;;;
-11/03/2022;Quinta-feira;10:00:00 PM;Jeffrey Dammer - Trend;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4055;2019;;;;;;;;;;;;;;;;;;;;;;;;;;
-11/05/2022;Sábado;10:00:00 PM;Mas eu gosto assim - Trend;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4070;1385;;;;;;;;;;;;;;;;;;;;;;;;;;
-11/05/2022;Sábado;10:00:00 PM;Mas eu gosto assim - Trend;Tiktok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5954;1605;;;;;;;;;;;;;;;;;;;;;;;;;;
-11/06/2022;Domingo;02:00:00 PM;Repost - Gabriela Roran 2;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4080;1885;;;;;;;;;;;;;;;;;;;;;;;;;;
-11/10/2022;Sexta-feira;10:00:00 PM;Vivência Bissexual ;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;Férias;2854;;;;;;;;;;;;;;;;;;;;;;;;;;
-11/13/2022;Domingo;10:00:00 PM;Hormônio Luna;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;Férias;885;;;;;;;;;;;;;;;;;;;;;;;;;;
-11/15/2022;Terça-feira;10:00:00 PM;Repost - Tatuagem nas Costas;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;Férias;2371;;;;;;;;;;;;;;;;;;;;;;;;;;
-11/17/2022;Quinta-feira;10:00:00 PM;Tomou PrEP atoa - Luna;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;Férias;1505;;;;;;;;;;;;;;;;;;;;;;;;;;
-11/17/2022;Quinta-feira;10:00:00 PM;Tomou PrEP atoa - Luna;Tiktok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;Férias;860;;;;;;;;;;;;;;;;;;;;;;;;;;
-11/26/2022;Sábado;10:05:00 PM;Tudo lembra elu;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4402;4584;;;;;;;;;;;;;;;;;;;;;;;;;;
-11/26/2022;Sábado;10:05:00 PM;Tudo lembra elu;Tiktok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5949;221;;;;;;;;;;;;;;;;;;;;;;;;;;
-11/28/2022;Segunda-feira;08:00:00 PM;Saúde Mental - Prostituição;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4420;2090;;;;;;;;;;;;;;;;;;;;;;;;;;
-12/05/2022;Segunda-feira;01:00:00 PM;Informativo - Prep Sob Demanda;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4470;845;;;;;;;;;;;;;;;;;;;;;;;;;;
-12/05/2022;Segunda-feira;01:00:00 PM;Informativo - Prep Sob Demanda;Tiktok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5951;292;;;;;;;;;;;;;;;;;;;;;;;;;;
-12/06/2022;Terça-feira;10:00:00 PM;Meme - Banana;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4478;1164;;;;;;;;;;;;;;;;;;;;;;;;;;
-12/08/2022;Quinta-feira;10:15:00 PM;Meme - Luna;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4490;2233;;;;;;;;;;;;;;;;;;;;;;;;;;
-12/08/2022;Quinta-feira;10:15:00 PM;Meme - Luna;Tiktok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5945;581;;;;;;;;;;;;;;;;;;;;;;;;;;
-12/13/2022;Terça-feira;10:00:00 PM;Contato com participantes - Luna;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4489;830;;;;;;;;;;;;;;;;;;;;;;;;;;
-12/13/2022;Terça-feira;10:00:00 PM;Contato com participantes - Luna;Tiktok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5944;179;;;;;;;;;;;;;;;;;;;;;;;;;;
-12/16/2022;Sexta-feira;10:00:00 PM;Atv goza primeiro ;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4485;3605;;;;;;;;;;;;;;;;;;;;;;;;;;
-12/22/2022;Quinta-feira;10:00:00 PM;Prep - viagem;Tiktok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;Recesso ;220;;;;;;;;;;;;;;;;;;;;;;;;;;
-12/22/2022;Quinta-feira;10:00:00 PM;Prep - viagem;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;Recesso ;912;;;;;;;;;;;;;;;;;;;;;;;;;;
-12/23/2022;Sexta-feira;10:00:00 PM;Ele n te quer - Repost;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;Recesso ;5395;;;;;;;;;;;;;;;;;;;;;;;;;;
-12/24/2022;Sábado;10:00:00 PM;Esperando às 2h da prep  - Repost;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;Recesso ;805;;;;;;;;;;;;;;;;;;;;;;;;;;
-12/24/2022;Sábado;10:00:00 PM;Esperando às 2h da prep  - Repost;Tiktok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;Recesso ;208;;;;;;;;;;;;;;;;;;;;;;;;;;
-12/25/2022;Domingo;10:00:00 PM;Transição - Repost;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;Recesso ;2716;;;;;;;;;;;;;;;;;;;;;;;;;;
-12/29/2022;Quinta-feira;10:00:00 PM;Poder de Escolha ;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;Recesso ;2320;;;;;;;;;;;;;;;;;;;;;;;;;;
-12/29/2022;Quinta-feira;10:00:00 PM;Poder de Escolha ;Tiktok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;Recesso ;;;;;;;;;;;;;;;;;;;;;;;;;;;
-01/03/2023;Terça-feira;10:00:00 PM;Banheirão - Repost;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4470;3908;;;;;;;;;;;;;;;;;;;;;;;;;;
-01/07/2023;Sábado;10:00:00 PM;Efeitos Colaterais da PrEP;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4467;2201;;;;;;;;;;;;;;;;;;;;;;;;;;
-01/07/2023;Sábado;10:07:00 PM;Efeitos Colaterais da PrEP;Tiktok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5946;253;;;;;;;;;;;;;;;;;;;;;;;;;;
-01/08/2023;Domingo;10:00:00 PM;Mês da Visibilidade Trans - Repost;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4461;631;;;;;;;;;;;;;;;;;;;;;;;;;;
-01/10/2023;Terça-feira;06:00:00 PM;Meme - Impulsividade - Repost;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4459;2530;;;;;;;;;;;;;;;;;;;;;;;;;;
-01/12/2023;Quinta-feira;06:00:00 PM;Truque na consulta;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4456;817;;;;;;;;;;;;;;;;;;;;;;;;;;
-01/12/2023;Quinta-feira;06:05:00 PM;Truque na consulta;Tiktok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5947;761;;;;;;;;;;;;;;;;;;;;;;;;;;
-01/16/2023;Segunda-feira;06:00:00 PM;Pass e Atv na balada;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4462;21313;;;;;;;;;;;;;;;;;;;;;;;;;;
-01/17/2023;Terça-feira;06:00:00 PM;Pep - Luna;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4467;939;;;;;;;;;;;;;;;;;;;;;;;;;;
-01/17/2023;Terça-feira;06:00:00 PM;Pep - Luna;Tiktok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5947;259;;;;;;;;;;;;;;;;;;;;;;;;;;
-01/21/2023;Sábado;06:00:00 PM;Amigos - Repost;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4478;1179;;;;;;;;;;;;;;;;;;;;;;;;;;
-01/23/2023;Segunda-feira;06:00:00 PM;PrEP Sob Demanda - Luna;Tiktok;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5939;238;;;;;;;;;;;;;;;;;;;;;;;;;;
-01/23/2023;Segunda-feira;06:00:00 PM;PrEP Sob Demanda - Luna;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4484;407;;;;;;;;;;;;;;;;;;;;;;;;;;
-01/25/2023;Quarta-feira;06:00:00 PM;Brenda Lee;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4486;497;;;;;;;;;;;;;;;;;;;;;;;;;;
-01/30/2023;Segunda-feira;06:00:00 PM;Visibilidade Trans - Respost;Instagram;Não Patrocinado;Online;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4486;577;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;2º Fervo 1519 com participantes com Maia, Ika e Audre;Zoom ;;Online;Zoom;Não foi ofertada testagem;Coletiva;;;;;;x;x;x;x;x;x;x;x;;;;;;;;;;;;;;;;
-;Sábado;10:00:00 PM;Halloween Party;Av.Ragueb Chohfi, 5900;Eventual;Itinerante;Aberto e pago;Autoteste;Coletiva;;700;700;;700;Dominante (mais de 90%);Predominante (50% à 90%);Predominante (50% à 90%);Raro (até 20%);Aparente;Aparente;Discreto;Discreto;1;300;1;0;0;1;x;0;sim;0;40;0;51;0;;50
-;;;;;Eventual;Online;;;Coletiva;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;Eventual;Online;;;Coletiva;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;Eventual;Online;;;Coletiva;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;1272181;850459;810191;16;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;1272181;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;facebook;;2183;2339;;;;;;;;;;;;;;;;;;;;;;;;;
+Data;Nome do evento;Local;Tipo de evento;Tipo de testagem;Tipo de Intervenção;Tamanho estimado (faixa);Tamanho estimado (numero inteiro);no. de pessoas que pegaram o contato (publico de interesse);12/31/2021;nº de pessoas de deram o contatos (público de interesse)
+04/19/2019;Helipa na Cantho Club;Largo do Arouche;Fechado e pago;Autoteste;Mista;;300;;;9
+05/10/2019;Helipa no Bar Verde;Rua Peixoto Gomide;Fechado e pago;Autoteste;Mista;;700;;;14
+05/18/2019;Helipa na Virada Cultural;Largo da Bolsa - Centro SP;Aberto e gratuito;Autoteste;Mista;;7000;;;55
+06/02/2019;Domingo no MASP;MASP e Av. Paulista;Aberto e gratuito;Autoteste;Mista;;20;;;1
+06/07/2019;Helipa no Bar Verde;Rua Peixoto Gomide;Fechado e pago;Autoteste;Mista;;800;;;19
+06/16/2019;Domingo no MASP;MASP e Av. Paulista;Aberto e gratuito;TR e Autoteste;Mista;;50;;;2
+08/29/2019;Sem evento;Void/república e Roosevelt;Aberto e gratuito;Autoteste;Individual;51 a 500 pessoas;250;;;1
+08/30/2019;Sem evento;Roosevelt e Augusta/Peixoto;Aberto e gratuito;Não foi ofertada testagem;Individual;51 a 500 pessoas;250;;;1
+08/31/2019;Sem evento;Centro Cultural São Paulo;Aberto e gratuito;Não foi ofertada testagem;Individual;51 a 500 pessoas;250;;;5
+09/01/2019;K.O - 7º Edição;Centro Cultural São Paulo;Aberto e gratuito;Não foi ofertada testagem;Individual;51 a 500 pessoas;250;;;1
+09/07/2019;Sem evento;Centro Cultural São Paulo;Aberto e gratuito;Não foi ofertada testagem;Individual;51 a 500 pessoas;250;;;0
+09/08/2019;Sem evento;Parque Ibirapuera;Aberto e gratuito;Não foi ofertada testagem;Individual;Acima de 500 pessoas;500;;;0
+09/13/2019;Sem evento;Roosevelt;Aberto e gratuito;Não foi ofertada testagem;Individual;51 a 500 pessoas;250;;;5
+09/14/2019;Sem evento;CCSP;Aberto e gratuito;Não foi ofertada testagem;Individual;51 a 500 pessoas;250;;;1
+09/14/2019;Sem evento;Paulista;Aberto e gratuito;Não foi ofertada testagem;Individual;Acima de 500 pessoas;500;;;4
+09/15/2019;Desmanche ;Augusta/Roosevelt;Fechado e gratuito;Não foi ofertada testagem;Individual;0 a 50 pessoas;25;;;1 (abordado na Roosevelt)
+09/20/2019;;;;;;;;;;0
+09/21/2019;Sem evento;Paulista;Aberto e gratuito;Não foi ofertada testagem;Individual;Acima de 500 pessoas;500;;;0
+09/22/2019;;;;;;;;;;0
+09/28/2019;;;;;;;;;;1
+09/28/2019;SP na Rua;República e arredores;Aberto e gratuito;Autoteste;Coletiva;Acima de 500 pessoas;500;;;7
+10/05/2019;Sem evento;Roosevelt/Vieira;Aberto e gratuito;Não foi ofertada testagem;Individual;51 a 500 pessoas;250;;;0
+10/06/2019;Sem evento;ccsp, masp e paulista;Aberto e gratuito;Não foi ofertada testagem;Individual;Acima de 500 pessoas;500;;;8
+10/06/2019;Sem evento;Villa Lobos ;Aberto e gratuito;Não foi ofertada testagem;Individual;Acima de 500 pessoas;500;;;0
+10/12/2019;Sem evento;Roosevelt;Aberto e gratuito;Não foi ofertada testagem;Individual;51 a 500 pessoas;250;;;1 (por app)
+10/13/2019;Sem evento;Paulista;Aberto e gratuito;Não foi ofertada testagem;Individual;Acima de 500 pessoas;500;;;
+10/26/2019;Festa Tesãozinho;Pça Dom Orione - Bela Vista;Aberto e gratuito;Autoteste;Coletiva;51 a 500 pessoas;250;;;0
+10/27/2019;Salem Kiki Ball;Esponja;Fechado e gratuito;Não foi ofertada testagem;Coletiva;51 a 500 pessoas;250;;;1
+11/07/2019;Slam Marginália Wand;Mosteiro da S Bento;Aberto e gratuito;Não foi ofertada testagem;Coletiva;0 a 50 pessoas;25;;;0
+11/09/2019;Festa Mel;Espaço Nobre;Fechado e pago;Não foi ofertada testagem;Individual;51 a 500 pessoas;250;;;0
+11/22/2019;Kiki Ball Afrodiaspórica;Casa Natura;Fechado e pago;Não foi ofertada testagem;Coletiva;51 a 500 pessoas;250;;;0
+11/23/2019;Chernobyl;Bar do China ;Aberto e gratuito;Autoteste;Coletiva;51 a 500 pessoas;250;;;7
+12/05/2019;Slam Marginália;Mosteiro da S Bento;Aberto e gratuito;Autoteste;Coletiva;0 a 50 pessoas;50;;;2
+12/13/2019;Sem evento;Peixoto-masp;Aberto e gratuito;Autoteste;Individual;;50;;;1
+12/14/2019;sem evento;peixoto;Aberto e gratuito;Autoteste;Individual;;20;;;3
+12/22/2019;Masp LGBT The End;MASP e Av. Paulista;Aberto e gratuito;Autoteste;Individual;;100;;;31
+01/14/2020;;Região da Republica;;;individual;;12;0;;0
+01/19/2020;1º Masp do ano;MASP e Av. Paulista;Aberto e gratuito;Autoteste;individual;;200;0;;19
+01/25/2020;Dancehall das Minas;Praça das Artes;Aberto e gratuito;Autoteste;Coletiva;0 a 50 pessoas;25;0;;0
+01/25/2020;Ball Vera Verão;Camisa Verde e Branco;Fechado e pago;Autoteste;Coletiva;51 a 500 pessoas;100;0;;0
+01/26/2020;;Masp e Peixoto;Aberto e gratuito;Não foi ofertada testagem;Individual;;300;0;;0
+02/09/2020;Masp Pré Carnaval;Masp;Aberto e gratuito;Autoteste;Individual;;200;0;;9
+02/09/2020;ExaltaPoc;Miúda Bar Pça Olavo Bilac;Aberto e pago;Autoteste;Coletiva;51 a 500 pessoas;300;;;
+02/14/2020;bloquinho sem medo e sem vergonha;praça da republica;Aberto e gratuito;Não foi ofertada testagem;Individual;;50;0;;0
+02/20/2020;Sem evento;Republica/Arouche/Luz;;;Individual;;7;0;;0
+02/23/2020;Minhoqueens;Republica/Arouche/Luz;Aberto e gratuito;Não foi ofertada testagem;Coletiva;Acima de 500 pessoas;500000;;;
+02/24/2020;Bloco Sai Hétero;Augusta;Aberto e gratuito;Não foi ofertada testagem;Individual;;2000;30;;0
+02/25/2020;bloco da pablo;região da luz;Aberto e gratuito;Não foi ofertada testagem;Coletiva;Acima de 500 pessoas;500000;;;
+02/25/2020;bloco da pablo;região da luz;Aberto e gratuito;não foi;individual;;1000;0;;0
+02/27/2020;Sem evento;Região da Republica;;;Individual;;10;0;;0
+03/05/2020;Sem evento;Republica/Arouche/Luz;Aberto e gratuito;Não foi ofertada testagem;individual;;13;0;;0
+03/06/2020;Casa 1;Galpão da Casa 1;Aberto e gratuito;Não foi ofertada testagem;Coletiva;51 a 500 pessoas;100;;;
+03/08/2020;Sem Evento;Masp;Aberto e gratuito;Não foi ofertada testagem;individual;;5000;3;;17
+03/15/2020;Sem evento;Masp;Aberto e gratuito;Não foi ofertada testagem;individual;;3000;0;;0
+04/17/2020;Ansiedade na Quarentena;Instagram;IGTV;Não foi ofertada testagem;Coletiva;;980;194;203;0
+04/18/2020;Arte LGBT;Instagram;Live;Não foi ofertada testagem;Coletiva;;984;-;Não consta no insta;0
+04/19/2020;PrEP e PEP com Dr. Maravilha;Instagram;Live;Não foi ofertada testagem;Coletiva;;73184;600;Não consta no insta;
+04/23/2020;Sexo e o Covid19 com Matuzza;Instagram;Live;Não foi ofertada testagem;Coletiva;;5215;-;Não consta no insta;
+04/24/2020;Aula de Vogue com Zaila Barbosa;Instagram;Live;Não foi ofertada testagem;Coletiva;;100;;Não consta no insta;
+04/25/2020;Ansiedade na Quarentena 2;Instagram;IGTV;Não foi ofertada testagem;Coletiva;;1008;119;134;
+04/27/2020;Para rebolar a raba em casa;Spotify;Playlist;Não foi ofertada testagem;Coletiva;;1;11;12;
+04/30/2020;Masturbação com Raulley;Instagram;Live;Não foi ofertada testagem;Coletiva;;1007;-;Não consta no insta;
+05/01/2020;Fetiches com Guilhermina;Instagram;Live;Não foi ofertada testagem;Coletiva;;1010;-;Não consta no insta;
+05/02/2020;Ansiedade na Quarentena 3;Instagram;IGTV;Não foi ofertada testagem;Coletiva;;1015;92;101;
+05/22/2020;Comunicação LGBTQ+ com Icaro;Instagram;Live;Não foi ofertada testagem;Coletiva;;3290;100;125;
+05/30/2020;Hormonização;Instagram;IGTV;Não foi ofertada testagem;Coletiva;;1035;204;224;
+05/31/2020;Arte LGBT;Instagram;Live;Não foi ofertada testagem;Coletiva;;43350;500;104;
+06/07/2020;Transfobia em espaços de saúde;Instagram;IGTV;Não foi ofertada testagem;Coletiva;;1045;122;156;
+06/19/2020;Projeto PrEP1519 - Audre, André e Luiz;Spotify;Podcast;Não foi ofertada testagem;Coletiva;;7;8;24;
+06/22/2020;História LGBT+ com Audre e Magô;Instagram;Live;Não foi ofertada testagem;Coletiva;;15080;52;Não consta no insta;
+06/22/2020;Abertura Semana LGBTQ+;Instagram;Live;Não foi ofertada testagem;Coletiva;;3350;187;Não consta no insta;
+06/23/2020;Pessoas Vivendo com HIV;Instagram;Live;Não foi ofertada testagem;Coletiva;;1093;;Não consta no insta;
+07/04/2020;Vivência Trans e Travesti na Quarentena Ep.01 - Ika e Audre;Instagram;IGTV;Não foi ofertada testagem;Coletiva;;1120;346;446;
+07/05/2020;Vivência Trans e Travesti na quarentena 01 com Audre e Ika;Instagram;IGTV;Não foi ofertada testagem;Coletiva;;1120;275;Não consta no insta;
+07/09/2020;Bissexualidade;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;1127;406;194;1
+07/12/2020;Pessoas Trans no Mercado de Trabalho;Spotify;Podcast;Não foi ofertada testagem;Coletiva;;1;3;12;
+07/17/2020;Vivência Trans e Travesti na quarentena 02 com Audre;Instagram;IGTV;Não foi ofertada testagem;Coletiva;;1142;280;667;
+07/30/2020;Vivência Trans 03 ;Instagram;IGTV;Não foi ofertada testagem;Coletiva;;1196;92;322;
+07/30/2020;Anúncio da Live com Lucy;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;1192;44;44;
+07/31/2020;Live Sobre Amanda Selfie com Lucy e Ika;Instagram;Live;Não foi ofertada testagem;Coletiva;;8382;25;Não consta no insta;0
+07/31/2020;Fervo 1519 com participantes com Maia, Ika e Audre;Zoom ;Zoom ;Não foi ofertada testagem;Coletiva;;4;1;;
+08/13/2020;Live com Alina Durso e Audre;Instagram;Live;Não foi ofertada testagem;Coletiva;;22465;;82;
+08/21/2020;Vídeo Pílula sobre esportes com Moira;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;1279;62;78;
+08/28/2020;Live sobre a visibilidade Lésbica - Aude e Natali  ;Instagram;Live;Não foi ofertada testagem;Coletiva;;1284;;Não consta no insta;
+08/28/2020;Vídeo Pílula - Repost visibilidade lésbica;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;1284;428;316;
+08/30/2020;Outras visões sobre sexo com Audre;Instagram;IGTV;Não foi ofertada testagem;Coletiva;;1281;410;640;
+09/04/2020;Apresentação Cultural sobre ballroom;Facebook;Live;Não foi ofertada testagem;Coletiva;;9915;318;1100;
+09/04/2020;Cultura Ballroom e prevenção às ISTs;Facebook;Live;Não foi ofertada testagem;Coletiva;;9915;219;230;
+09/08/2020;Sexo e Covid;Instagram;IGTV;Não foi ofertada testagem;Coletiva;;1284;1014;949;2
+09/11/2020;Saúde Mental;Facebook;Live;Não foi ofertada testagem;Coletiva;;9915;233;371;
+09/19/2020;Apresentação Cultural ;Facebook;Live;Não foi ofertada testagem;Coletiva;;9915;;Não consta no FB;
+09/19/2020;Gerações Trans;Facebook;Live;Não foi ofertada testagem;Coletiva;;9915;327;Não consta no FB;
+09/25/2020;Apresentação Cultural ;Facebook;Live;Não foi ofertada testagem;Coletiva;;9915;;711;1
+09/25/2020;Produção Cultural na Quebrada;Facebook;Live;Não foi ofertada testagem;Coletiva;;9915;250;Não consta no FB;
+10/22/2020;Vídeo Pílula - Chuca;Instagram;Vídeo Pílula;kit de prevenção;Coletiva;;1066;129;2745;
+10/30/2020;Pessoas Intersexo;Instagram;Live;Não foi ofertada testagem;Coletiva;;173916;;462;
+11/13/2020;Reels Camisinha e Lubrificante;Instagram;Vídeo Pílula;Kit de Prevenção;Coletiva;;11451;303;12037;
+11/13/2020;Visibilidade Trans na perifereia e Empregabilidade;Facebook ;Live;kit de prevenção;Coletiva;;8957;136;Não consta no FB;0
+11/13/2020;Lubrificante e Camisinha;Instagram;;;;;;;12037;
+11/14/2020;Gouinage X Penetração;Instagram;IGTV;Kit de Prevenção;Coletiva;;1055;;1448;0
+11/27/2020;Live Visibilidade Trans - Educação;Instagram;Live;Não foi ofertada testagem;Coletiva;;273;;617;0
+12/01/2020;Live Mês do Combate ao HIV;Instagram;Live;Não foi ofertada testagem;Coletiva;;365;;751;0
+12/17/2020;Reels testagem;Instagram;Vídeo Pílula;Autoteste;Coletiva;;;354;16644;0
+12/17/2020;Prevenção Combinada;Instagram;;;;;;;16644;
+12/23/2020;Prevenção ao HIV no mês da prevenção;Instagram;IGTV;Autoteste;Coletiva;;984;;1024;0
+12/29/2020;Autoteste;Instagram;Vídeo Pílula;Autoteste;Coletiva;;100mil;13,1mil;123013;0
+12/29/2020;Autoteste;Instagram;;;;;;;123014;
+12/31/2020;Retrospectiva 2020;Instagram;IGTV;Não foi ofertada testagem;Coletiva;;316;;707;0
+01/02/2021;Antirracismo é o ano todo;Instagram;IGTV;Não foi ofertada testagem;Coletiva;;1609;;1141;0
+01/05/2021;Pep para Prep - Amigo;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3722;2659;;
+01/06/2021;Visibilidade Trans;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;6239;291;7217;0
+01/06/2021;Pep para Prep - Amigo;Tik Tok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;2903;;
+01/12/2021;Visibilidade Trans ;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3288;84;3727;0
+01/20/2021;Visibilidade Trans ;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3726;151;4125;0
+01/24/2021;Visibilidade Trans ;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4399;130;4819;0
+01/29/2021;Visibilidade Trans na Periferia;Instagram;Live;Não foi ofertada testagem;Coletiva;;;118;553;0
+01/30/2021;Lançamento da CT;Facebook;Live;Não foi ofertada testagem;Coletiva;;;;638;0
+01/30/2021;Mês da visibilidade trans;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;9284;250;266;0
+02/11/2021;Decisão PrEP;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;1915;4503;4587;0
+02/15/2021;Apresentação Equipe na CT;Instagram;;;;;;;769;
+02/27/2021;O que é não-binariedade;Instagram;Live;Não foi ofertada testagem;Coletiva;;1980;502;640;0
+02/28/2021;PrEP para menores de 18;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;1982;6404;6466;0
+03/03/2021;Casa1;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;1994;1365;1439;0
+03/11/2021;Apresentação da CT;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2001;3619;3821;0
+03/13/2021;Apresentação da CT;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2005;2420;2565;0
+03/17/2021;Mês das mulheres;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2030;3663;3759;1
+03/23/2021;Modo de Prevenção;Instagram;IGTV;Não foi ofertada testagem;Coletiva;;2035;630;974;0
+03/25/2021;Pessoas trans em 2021;Instagram;IGTV;Não foi ofertada testagem;Coletiva;;2040;583;611;0
+03/27/2021;Respeite pessoas trans;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2043;5238;5332;0
+04/02/2021;E se a prevenção der errado;Instagram;IGTV;Não foi ofertada testagem;Coletiva;;2050;741;785;0
+04/27/2021;ÊÊÊ -  Trend;Instagram;Vídeo Pílula;Teste Rápido;Coletiva;;2125;100000;118712;3
+05/01/2021;Dia do trabalho;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2150;4300;4393;0
+05/07/2021;Dúvidas sobre prevenção combinada;Instagram;IGTV;Teste Rápido;Coletiva;;2176;469;757;3
+05/08/2021;Fica em casa;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2200;4163;4247;2
+05/09/2021;Precisamos falar sobre LGBTfobia;Instagram;IGTV;Não foi ofertada testagem;Coletiva;;2181;1316;1360;0
+05/11/2021;Dizia que se prevenia;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2250;2888;3001;0
+05/12/2021;Live com o PoupaTrans;Instagram;Live;Não foi ofertada testagem;Coletiva;;4240;387;445;1
+05/26/2021;PrEP falante;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2349;3678;4315;1
+05/28/2021;Dia da Família;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2355;768;958;0
+06/01/2021;Testagem 1;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2363;4397;4569;1
+06/04/2021;Testagem 2;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2370;5585;6042;0
+06/19/2021;PrEP1519 na Cidade Tiradentes;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2380;3324;3450;
+06/22/2021;Relação com pessoas trans no sigilo;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2420;4142;4349;
+06/26/2021;Projetos para LGBT em São Paulo;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2430;1794;1943;
+06/29/2021;HIV e transfemininas;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2437;5252;5501;
+07/03/2021;PrEP na Cidade Tiradentes;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2450;1604;1875;
+07/14/2021;LGBTfobia na escola;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2459;2803;2896;
+07/19/2021;Vídeo Erika Hilton;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2462;3197;3334;
+07/19/2021;Vídeo Erika Hilton;TikTok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4191;1254;2546;
+07/21/2021;Adolescentes fazem sexo;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2469;1518;1711;
+07/24/2021;O que é PrEP;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2475;7635;8060;
+07/27/2021;Sexo na Pandemia;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2478;1096;1249;
+07/27/2021;Sexo na Pandemia;TikTok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4191;1743;2061;
+08/02/2021;Preservativo incomoda?;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2486;4408;5696;
+08/02/2021;Preservativo incomoda?;TikTok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4191;2499;3120;
+08/03/2021;Ensino de IST na escola;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2497;2441;3532;
+08/07/2021;Novo Kit de Prevenção;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2600;8368;10257;
+08/08/2021;Projeto Respeito tem nome;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;2615;4219;4764;
+08/14/2021;Agosto Indígena;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3477;34844;37685;
+08/14/2021;Agosto Indígena;TikTok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;;56400;
+08/21/2021;PrEP para menores de 18;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3477;4639;4744;
+08/24/2021;Agosto Lésbico e trans;TikTok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3477;4829;667;
+08/24/2021;Discutindo sobre PrEP;TikTok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;;449;
+08/28/2021;Dia Internacional do Orgulho LGBT;Instagram;;;;;;;298;
+08/29/2021;Agosto Lésbico e trans;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3477;4829;4635;
+08/30/2021;Pedido do Kit;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3477;827;1059;
+08/30/2021;Pedido do Kit;TikTok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3477;827;734;
+09/18/2021;Adolescentes no serviço de saúde;TikTok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5230;11400;12600;0
+09/18/2021;Adolescentes no serviço de saúde;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3500;2389;2389;0
+09/20/2021;Monogamia com Prevenção de IST;TikTok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5230;4138;4556;0
+09/20/2021;Monogamia com Prevenção de IST;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3507;2732;2730;0
+09/21/2021;Acesso a informação e continuade de PrEP;TikTok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5231;237;428;
+09/21/2021;Acesso a informação e continuade de PrEP;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3509;1741;2071;0
+09/23/2021;Visibilidade Bissexual;TikTok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5233;544;827;0
+09/23/2021;Visibilidade Bissexual;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3511;1754;2800;0
+09/24/2021;Divulgação do Projeto;TikTok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3513;159;416;0
+09/24/2021;Divulgação do Projeto;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5237;183;678;0
+09/29/2021;Setembro Amarelo;Instagram;IGTV;Não foi ofertada testagem;Coletiva;;;1472;1599;
+10/07/2021;Transar sem camisinha;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;3476;3702;
+10/09/2021;Vacinação;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;346;506;
+10/11/2021;Prevenção ao suicídio ;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;3070;3459;
+10/13/2021;Redesignação Sexual ;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;872;1474;
+10/15/2021;Saída do Armário;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;921;1180;
+10/21/2021;Kit 2;TikTok;Vídeo Pílula;Autoteste;Coletiva;;5650;1792;1406;
+10/21/2021;Kit 2;Instagram;Vídeo Pílula;Autoteste;Coletiva;;3601;1288;3206;
+10/25/2021;Cancer de Mama;TikTok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5681;;237;
+10/25/2021;Cancer de Mama;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3605;1907;1953;
+10/26/2021;Visibilidade Intersexo;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3604;571;599;
+10/26/2021;Visibilidade Intersexo;Tik Tok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;303;308;
+11/04/2021;Chemsex;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3615;1264;1341;
+11/04/2021;Chemsex;Tik Tok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;3070;4532;
+11/05/2021;Sigilosos;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3617;2121;2155;
+11/05/2021;Sigilosos;Tik Tok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;222;224;
+11/08/2021;Indicação de PrEP;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3622;3225;3269;
+11/08/2021;Indicação de PrEP;Tik Tok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;1427;1536;
+11/10/2021;Devo usar PrEP?;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3621;516;583;
+11/10/2021;Devo usar PrEP?;Tik Tok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;207;214;
+11/15/2021;Lubrificantes ;Instagram;Vídeo Pílula;Autoteste;Coletiva;;3627;1753;1860;
+11/15/2021;Lubrificantes ;Tik Tok;Vídeo Pílula;Autoteste;Coletiva;;;198;1449;
+11/16/2021;Sugar daddy;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3628;893;980;
+11/16/2021;Sugar daddy;Tik Tok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;696;718;
+11/19/2021;Retificação e Poupatrans ;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3632;2487;2604;
+11/19/2021;Retificação e Poupatrans ;Tik Tok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;265;269;
+11/26/2021;Serviços da PrEP 1519;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3648;2261;2369;
+11/26/2021;Serviços da PrEP 1519;Tik Tok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;243;269;
+11/30/2021;Relacionamento fechado e uso de PrEP;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3659;5175;5252;
+11/30/2021;Relacionamento fechado e uso de PrEP;Tik Tok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;2840;2872;
+12/02/2021;Kit de prevenção ;Instagram;Vídeo Pílula;Autoteste;Coletiva;;3661;615;727;
+12/02/2021;Kit de prevenção ;Tik Tok;Vídeo Pílula;Autoteste;Coletiva;;;1328;1411;
+12/08/2021;Sou versátil ;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3665;2827;3014;
+12/08/2021;Sou versátil ;Tik Tok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;;Não consta no Tiktok;
+12/09/2021;Locais dos serviços ;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3674;1531;1655;
+12/09/2021;Locais dos serviços ;Tik Tok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;528;545;
+12/13/2021;Cuidados online ;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3679;1450;1588;
+12/13/2021;Cuidados online ;Tik Tok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;481;493;
+12/15/2021;Kit de prevenção ;Instagram;Vídeo Pílula;Autoteste;Coletiva;;3685;1016;1182;
+12/15/2021;Kit de prevenção ;Tik Tok;Vídeo Pílula;Autoteste;Coletiva;;;520;546;
+12/17/2021;Não se testa e nem usa camisinha;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3689;4097;4283;
+12/17/2021;Não se testa e nem usa camisinha;Tik Tok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;1313;1335;
+12/22/2021;Viajar com a PrEP;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3702;4243;4408;
+12/22/2021;Viajar com a PrEP;Tik Tok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;475;503;
+12/24/2021;POV PrEP;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3699;3681;3023;
+12/24/2021;POV PrEP;Tik Tok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;1549;1609;
+12/28/2021;Consulta prep 1519;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3710;2765;3543;
+12/28/2021;Consulta prep 1520;Tik Tok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;232;263;
+12/30/2021;Vacina HPV e Hepatite;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3720;1162;2325;
+01/02/2022;Não usa camisinha ;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3717;1811;;
+01/02/2022;Não usa camisinha ;Tik Tok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;645;1076;
+01/03/2022;Julgamento Prep ;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3715;878;;
+01/03/2022;Julgamento Prep ;Tik Tok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;559;606;
+01/10/2022;Cada um se previne da forma que quer;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3718;2937;;
+01/10/2022;Cada um se previne da forma que quer;Tik Tok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;;;
+01/12/2022;Dicas de Prevenção ;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3759;10746;;
+01/12/2022;Dicas de Prevenção ;Tik Tok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;3729;;
+01/17/2022;Transfobia - Trend;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3758;4283;;
+01/17/2022;Transfobia - Trend;Tik Tok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;;4029;;
+01/19/2022;Colocar a cabecinha;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3768;1001;;
+01/19/2022;Colocar a cabecinha;Tik Tok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5961;471;;
+02/10/2022;Trend - Explicando PrEP;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3795;1903;;
+02/10/2022;Trend - Explicando PrEP;Tik Tok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5943;2096;;
+02/13/2022;Trend - Suggar Daddy;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3802;2094;;
+02/14/2022;Trend - Suggar Daddy;Tik Tok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5941;31;;
+02/15/2022;Só transa sem camisinha comigo;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3799;428;;
+02/15/2022;Só transa sem camisinha comigo;Tik Tok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5941;32;;
+02/18/2022;Preconceito com quem toma PrEP;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3797;3103;;
+02/18/2022;Preconceito com quem toma PrEP;Tik Tok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5927;382;;
+02/20/2022;Emojis - PrEP;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3808;649;;
+02/20/2022;Emojis - PrEP;Tik Tok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5928;334;;
+03/02/2022;Repost - Bi x Pan;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3800;4314;;
+03/16/2022;Convite - Resenha Babado ;Tik Tok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5915;64;;
+03/16/2022;Convite - Resenha Babado ;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3772;2245;;
+03/30/2022;Discussão - Prevenção Combinada;Tik Tok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5903;2;;
+03/30/2022;Discussão - Prevenção Combinada;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3774;2880;;
+04/01/2022;Festa de Familia - Vivência Trans;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3783;1912;;
+04/11/2022;Insegurança - Trans ;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3791;3532;;
+04/15/2022;Prep 1519;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3804;1658;;
+04/22/2022;Repost - LGBT;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3835;3616;;
+04/26/2022;Repost - Afem;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3849;2509;;
+04/30/2022;Prep apenas para quem transa bastante;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3865;3152;;
+05/06/2022;Quando o boy usa prep;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3870;3877;;
+05/09/2022;Quando o boy usa prep;Tik Tok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5953;24;;
+05/10/2022;Repost - Rejeição ;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3876;498;;
+05/13/2022;Repost - Brinquedos;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3871;2273;;
+05/23/2022;Repost - Bora Marcar;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3866;2704;;
+05/26/2022;Repost - História Travesti;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3879;5255;;
+05/31/2022;Prep Falante - Camisinha Interna;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3891;5529;;
+05/31/2022;Prep Falante - Camisinha Interna;TikTok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5955;3;;
+06/04/2022;Repost - Balada Gay x HT;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3899;4222;;
+06/10/2022;Saída do Armário 2 ;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3910;3617;;
+06/18/2022;Pré-Parada;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3919;1651;;
+06/20/2022;Haters da Prep;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3920;809;;
+06/20/2022;Haters da Prep;TikTok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5948;38;;
+06/26/2022;Fetiche;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3917;6736;;
+07/04/2022;Vamos falar sobre IST - 1;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3922;3960;;
+07/04/2022;Vamos falar sobre IST - 1;Tiktok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5952;457;;
+07/07/2022;Grindr - Vivência;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3932;4990;;
+07/08/2022;Lubrificantes - 2;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3935;5481;;
+07/13/2022;Grindr - Vivência 2;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3942;3523;;
+07/16/2022;Agradecimento participante do projeto;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3943;442;;
+07/18/2022;Agradecimento participante do projeto;Tiktok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5952;190;;
+07/18/2022;Amigos criticam a Prep;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3943;2188;;
+07/18/2022;Amigos criticam a Prep;Tiktok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5952;268;;
+07/20/2022;Repost - Meu pau é maior que o dele ;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3943;3243;;
+07/24/2022;Repost - Dois versáteis;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3943;3746;;
+07/24/2022;Repost - Dois versáteis;Tiktok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5952;23;;
+07/25/2022;Transição ;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3939;1877;;
+07/25/2022;Transição ;Tiktok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5951;239;;
+07/28/2022;Hipocrisia - Contra a natureza;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3940;3415;;
+07/28/2022;Hipocrisia - Contra a natureza;Tiktok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5951;2374;;
+08/16/2022;Todos saindo do armário;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3941;9947;;
+08/19/2022;Na frente da Mãe x Na frente do Pai;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3942;10785;;
+08/22/2022;Repost - Pep depois da Balada ;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3946;2750;;
+08/24/2022;Repost - Duas passivas;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3949;6819;;
+08/26/2022;Camisinha desolada - Prep Falante;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3950;875;;
+08/26/2022;Camisinha desolada - Prep Falante;Tiktok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5979;1715;;
+08/29/2022;Repost - Aparencia de Hetero;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3952;5119;;
+09/01/2022;Repost - Boy no sigilo;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3956;1631;;
+09/04/2022;Repost -  Esperando o Boy pegar Lub;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3951;5795;;
+09/07/2022;Repost -  Alcool na Balada ;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3952;1359;;
+09/08/2022;Se mamar no carro fosse crime;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3947;3094;;
+09/08/2022;Se mamar no carro fosse crime;Tiktok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5966;447;;
+09/12/2022;Kit - Set 2022;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3942;527;;
+09/12/2022;Kit - Set 2022;Tiktok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5969;175;;
+09/18/2022;Repost - Efeito Hormônio ;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3939;2437;;
+09/20/2022;Repost - Mar;;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3940;5053;;
+09/26/2022;Sigilo - Luna ;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3934;777;;
+09/26/2022;Sigilo - Luna ;Tiktok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5962;574;;
+09/29/2022;Mudança de Voz - Repost;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3943;908;;
+09/30/2022;Locais dos serviços - Luna;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3948;810;;
+10/02/2022;Julgamento Prep 2;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3953;625;;
+10/02/2022;Julgamento Prep 2;Tiktok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5961;11;;
+10/06/2022;Prevenção Combinada - Luna;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3957;1744;;
+10/06/2022;Prevenção Combinada - Luna;Tiktok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5962;1;;
+10/07/2022;Não Tomei minha Prep para nada - Repost;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3953;2931;;
+10/10/2022;Locais dos serviços - Luna;Tiktok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5961;278;;
+10/10/2022;Amiga barraqueira;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3954;1228;;
+10/14/2022;Visão dos homens heteros sobre amigo com namorada trans;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3948;10789;;
+10/20/2022;Esteriótipos LGBTQIA;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;3952;168494;;
+10/26/2022;Amigas sumiram com boy;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4016;1612;;
+11/03/2022;Jeffrey Dammer - Trend;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4055;2019;;
+11/05/2022;Mas eu gosto assim - Trend;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4070;1385;;
+11/05/2022;Mas eu gosto assim - Trend;Tiktok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5954;1605;;
+11/06/2022;Repost - Gabriela Roran 2;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4080;1885;;
+11/10/2022;Vivência Bissexual ;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;Férias;2854;;
+11/13/2022;Hormônio Luna;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;Férias;885;;
+11/15/2022;Repost - Tatuagem nas Costas;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;Férias;2371;;
+11/17/2022;Tomou PrEP atoa - Luna;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;Férias;1505;;
+11/17/2022;Tomou PrEP atoa - Luna;Tiktok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;Férias;860;;
+11/26/2022;Tudo lembra elu;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4402;4584;;
+11/26/2022;Tudo lembra elu;Tiktok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5949;221;;
+11/28/2022;Saúde Mental - Prostituição;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4420;2090;;
+12/05/2022;Informativo - Prep Sob Demanda;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4470;845;;
+12/05/2022;Informativo - Prep Sob Demanda;Tiktok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5951;292;;
+12/06/2022;Meme - Banana;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4478;1164;;
+12/08/2022;Meme - Luna;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4490;2233;;
+12/08/2022;Meme - Luna;Tiktok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5945;581;;
+12/13/2022;Contato com participantes - Luna;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4489;830;;
+12/13/2022;Contato com participantes - Luna;Tiktok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5944;179;;
+12/16/2022;Atv goza primeiro ;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4485;3605;;
+12/22/2022;Prep - viagem;Tiktok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;Recesso ;220;;
+12/22/2022;Prep - viagem;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;Recesso ;912;;
+12/23/2022;Ele n te quer - Repost;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;Recesso ;5395;;
+12/24/2022;Esperando às 2h da prep  - Repost;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;Recesso ;805;;
+12/24/2022;Esperando às 2h da prep  - Repost;Tiktok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;Recesso ;208;;
+12/25/2022;Transição - Repost;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;Recesso ;2716;;
+12/29/2022;Poder de Escolha ;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;Recesso ;2320;;
+12/29/2022;Poder de Escolha ;Tiktok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;Recesso ;;;
+01/03/2023;Banheirão - Repost;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4470;3908;;
+01/07/2023;Efeitos Colaterais da PrEP;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4467;2201;;
+01/07/2023;Efeitos Colaterais da PrEP;Tiktok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5946;253;;
+01/08/2023;Mês da Visibilidade Trans - Repost;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4461;631;;
+01/10/2023;Meme - Impulsividade - Repost;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4459;2530;;
+01/12/2023;Truque na consulta;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4456;817;;
+01/12/2023;Truque na consulta;Tiktok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5947;761;;
+01/16/2023;Pass e Atv na balada;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4462;21313;;
+01/17/2023;Pep - Luna;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4467;939;;
+01/17/2023;Pep - Luna;Tiktok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5947;259;;
+01/21/2023;Amigos - Repost;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4478;1179;;
+01/23/2023;PrEP Sob Demanda - Luna;Tiktok;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;5939;238;;
+01/23/2023;PrEP Sob Demanda - Luna;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4484;407;;
+01/25/2023;Brenda Lee;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4486;497;;
+01/30/2023;Visibilidade Trans - Respost;Instagram;Vídeo Pílula;Não foi ofertada testagem;Coletiva;;4486;577;;
+;;;;;;;;;;
+;2º Fervo 1519 com participantes com Maia, Ika e Audre;Zoom ;Zoom;Não foi ofertada testagem;Coletiva;;;;;
+;Halloween Party;Av.Ragueb Chohfi, 5900;Aberto e pago;Autoteste;Coletiva;;700;700;;700
+;;;;;Coletiva;;;;;
+;;;;;Coletiva;;;;;
+;;;;;Coletiva;;;;;
+;;;;;;;;;;
+;;;;;;;1272181;850459;810191;16
+;;;;;;;;;;
+;;;;;;;1272181;;;
+;;;;;;;;;;
+;;;;;;facebook;;2183;2339;
